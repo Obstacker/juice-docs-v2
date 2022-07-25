@@ -21,7 +21,7 @@ Website and App are used as the interfaces to view and add the content (hereinaf
 
 If a User posts Content through the Website or App, posts links on the Website or App, or otherwise make (or allow any third party to make) material available by means of the Website and App, User is entirely responsible for the Content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, User represents and warrants that:
 
-1. Rhe downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+1. The downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
 
 2. Rhw user has fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
 
