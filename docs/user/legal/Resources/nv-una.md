@@ -1,5 +1,5 @@
 ---
-title: Example Nevada UNA
+title: Nevada Unincorporated NonProfit Association
 sidebar_position: 1
 ---
 

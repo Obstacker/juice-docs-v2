@@ -1,12 +1,12 @@
 ---
-title:
+title: Delaware UNA Agreement
 sidebar_position: 1
 ---
 
-# Trustless Unincorporated Nonprofit Association Agreement ("TUNAA")
+# Unincorporated Nonprofit Association Agreement
 
 :::info
-
+A few cryptographic currency communities have added the term "Trustless" to the Unincorporated Nonprofit Association Agreement, however that does not mean that there is a statute for Trustless Unincorporated Nonprofits, rather that someone has the ability to name the agreement whatever they want, as well how far one is willing to go to make an acronym from a legal agreement title.  Generally see Unincorporated Non-Profit Association Act of 2008 (the "Act"), Model Act.
 :::
 
 ## Article I - Organization
