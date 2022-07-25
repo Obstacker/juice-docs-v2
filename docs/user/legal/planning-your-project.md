@@ -3,55 +3,41 @@ title: "Your Project"
 sidebar_position: 1
 ---
 
-If you have not done so prior to this point, it is recommended that you first outline your project in some detail. Not only will it help you define how your project will operate, but it will be invaluable to properly assess how you will navigate the ensusing legal tasks. Below seeks specific ideas or answers you should have some notion regarding, ultimately the clearer the vision the better this vision will frame your priorities and purposes as you recruit help, articulate your plans, and establish any type of goals.
+This page recommends you prepare a worksheet about your project, by attempting to describe generally what information you may need to evaluate what legal resources you need and how best to configure your treasury. Not only will this information help define how the project will operate, but may prove invaluable in navigating future decision trees.
 
-Much of what transpires at this point is very much in the vein of starting a business[^1], if you plan on asking for help in the form of people's time and money, it is as simple as what would you want to hear if you were considering dedicating significant time and expense for a project?[^2] While projects have started with a simple thesis, which strikes a nerve, such as "Let's buy the U.S. Constitution", the reality of most projects is much more grim.
+A wide variety of Juicebox projects are created with even wider variety of ideas and preconceptions on its day to day operations. This is the beauty of Juicebox. Where ever you fall on this rainbow spectrum, there are no wrong answers, however the degree of specificity will make navigating decisions easier. For the purposes of this section, the specificity of the information sought below is relevant to the degree you have any requirements to share with 3rd parties the purpose of your Juicebox project. While not knowing what the future will hold, a reasonable strategy is to try to make _some_ decision or reach a consensus with caveats that things change.
 
-**According to the Lending Tree. 18.4% of private sector businesses in the U.S. fail within the first year. After five years, 49.7% have faltered, while after 10 years, 65.5% of businesses have failed.**[^3]
+For the purposes of illustration, we will use MeowsDAO below and in the example legal documents.
 
-And then there is this.
+### Publicly known individual
 
-```bash
-// TODO: add stats from Kickstart
+Juicebox is agnostic to whether individuals operating a project are publicly know figures are anons seeking to collaborate. However, whether a project member has an unimaginative user handle, or anonymity not a concern, IRL reputations do provide credibility to projects. Projects which were initialized with anonymous founders but after some critical threshold of members, contributions, expanded to include publicly known individuals are in service of adding weight and credibility to a project. While not user friendly, on-chain activity does provide some insight into a particular individuals character, however, likely inconclusive and subject to debate.
 
-// TODO: add stats from Juicebox
+### Service provider
 
-// TODO: Use juicebox project as example in description
-```
+Additionally, projects may employ legal resources, termed a _Service provider_. For example, [OpenLaw](https://www.openlaw.io/) is both legal services by Aaron Wright and DAO tooling. [Flamingo](https://docs.flamingodao.xyz/FeesExpensesCarry.html#if-there-are-expenses-associated-with-operating-flamingo-who-is-responsible-for-them) is an example of a DAO which is wrapped, a Delaware corporation of the same name effectively is operated by the service provider. The management of treasury funds, membership voting are all operated from a single application. Service providers usually cost at least 2% of all of the projects assets in addition to the billable hours, or software development costs. Unfortunately, service providers are not common.
+
+### Entity purpose and scope
+
+Your Juicebox project has a wide use of applications. Unlike a traditional bank account where the parties are the bank and yourself. A Juicebox project enables scenarios and utility far beyond the imagination of the contributors, therefore if a specific purpose is unknown defining an outline or a decision tree will help communications with contributors and project members alike. The first way to do this to the best of one's ability, describe the purpose of your Juicebox. The following example are for illustrative purposes only.
+
+    1. One sentence description.
+    2. Paragraph description.
+    3. Full project description.
 
 ### Project planning details
 
-| Property                               | Search Pattern[^4] |      Optional      | Description                                                                                                                                                 |
-| :------------------------------------- | :----------------- | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project Name**                       | _TREASURY_         | :heavy_check_mark: | What is your project's name?                                                                                                                                |
-| **Publicly Known Individual?**         | NA                 |                    | One easy way to establish credibility is to introduce an individual involved by their real name.                                                            |
-| **Service Provider**                   |                    |                    |                                                                                                                                                             |
-| **Description or Purpose**             |                    |                    |                                                                                                                                                             |
-| **Description or Purpose Description** |                    |                    | You will need several versions of your 'pitch', likely around time you have to tell. Suggestions include one sentence, one paragraph, and three paragraphs. |
-| **Website**                            |                    |                    |                                                                                                                                                             |
-| **Twitter**                            |                    |                    |                                                                                                                                                             |
-| **Discord**                            |                    |                    |                                                                                                                                                             |
-| **Logo**                               |                    |                    |                                                                                                                                                             |
-| **Description or Purpose**             |                    |                    |                                                                                                                                                             |
+| Property                               | Search Pattern[^1] |      Optional      | Description                                                                                        |
+| :------------------------------------- | :----------------- | :----------------: | :------------------------------------------------------------------------------------------------- |
+| **Project Name**                       | _MEOWSDAO_         |                    | What is your project's name?                                                                       |
+| **Publicly Known Individual?**         | _NA_               | :heavy_check_mark: | A project owner who's identity is known.                                                           |
+| **Service Provider**                   | _SERVICE_PROVIDER_ | :heavy_check_mark: | An attorney, legal counsel, representative law firm.                                               |
+| **Description or Purpose Description** | _PURPOSE_          |                    | Multiple purpose statements from one sentence, one, three paragraphs, project plan would be ideal. |
+| **Website**[^2]                        | _WEBSITE_          | :heavy_check_mark: |                                                                                                    |
+| **Twitter**                            | _TWITTER_          | :heavy_check_mark: |                                                                                                    |
+| **Discord**                            | _DISCORD_          | :heavy_check_mark: |                                                                                                    |
+| **Logo**[^3]                           | _LGOO_             | :heavy_check_mark: |                                                                                                    |
 
--   Service Provider (if applicable)
--   Description or Purpose
-    -   One sentence description
-    -   Paragraph description
-    -   Three paragraph description
--   Website
--   Twitter
--   Discord
--   Logo
-    -   1000x1000px
-    -   500x500px
-    -   250x250px
-        -   Token logo (if applicable)
-    -   if applicable
-        -   version with transparent background
-        -   SVG version of the logo
-
-[^1]: [Business Plan Template Startup](https://www.score.org/resource/business-plan-template-startup-business)
-[^2]: [How to Start a Businessm, 9 Steps and a Checklist](https://www.lendingtree.com/business/starting/)
-[^3]: [The Percentage of Businesses That Fail, How to Boost Your Chances of Success](https://www.lendingtree.com/business/small/failure-rate/#:~:text=Methodology-,Key%20findings,65.5%25%20of%20businesses%20have%20failed.)
-[^4]: [Search Pattern](./)
+[^1]: Attempts were made to match the above project properties to searchable patterns to easily modify template example legal agreements.
+[^2]: A website URL for more information, consideration for the project about, road map, team, or Notion page and online governance via Snapshot.org.
+[^3]: Logo or mark for your project should be available in resolutions of 1000x1000px, 500x500px, 250x250px. The token logo if it is different available in 1000x1000px and 250x250px. PNG with black, white and transparent channel versions. SVG has many applications during a project's lifecycle.
