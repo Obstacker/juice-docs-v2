@@ -45,17 +45,20 @@ This section is intentionally blank.
 -   [South Carolina Uniform Non-Profit Association Act of 2008 (the "Act"), Model Act](https://trackbill.com/bill/south-carolina-house-general-bill-3893-uniform-unincorporated-nonprofit-association/2033570/)
 -   [Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916](https://delcode.delaware.gov/title6/c019/index.html)
 
-### Securities 
+### Securities
 
 -   [Filing 2022 IRS Federal Tax ID Application](https://irs-tax-id-ein-gov.com/irs-2021/?utm_medium=cpc&utm_campaign=15581835982&utm_term=irs%20gov%20ein&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndtIXBtsjFLcHrwQMhU8Idz5DQlbYNQI_aMRLSvuYpeOr1PIMRb5XoRoC9bUQAvD_BwE)
 
 -   [A Regulatory Classification of Digital Assets: Toward an Operational Howey Test for Cryptocurrencies, ICOs, and Other Digital Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265295)
 
-Legal Library
-Federal Securities Regulation
-Key Cases
-Regarding Crypto Assets
+## Federal Securities Regulation
+
+### Key Cases
+
+#### Regarding Crypto Assets
+
 SEC v. Blockvest, LLC (S.D. Cal. 2019)
+
 Important Howey Test Cases
 SEC v. C.M. Joiner Leasing Corp., 320 U.S. 344 (1943)
 SEC v. W.J. Howey Co., 328 U.S. 293 (1946)
@@ -63,6 +66,7 @@ Tcherepnin v. Knight, 389 U.S. 332 (1967)
 United Housing Foundation, Inc. v. Forman, 421 U.S. 837 (1975)
 Glen-Arden Commodities, Inc. v. Costantino, 493 F.2d 1027 (2d Cir. 1974)
 Gary Plastic Packaging Corp. v. Merrill Lynch, 756 F.2d 230 (2d Cir. 1985)
+
 SEC Statements & Settlement Orders
 Framework for Investment Contract Analysis of Digital Assets
 Proposed framework from SEC's FinHub as to how to analyze whether the sale or offering of a digital asset constitutes a security in the form of an investment contract.
