@@ -1,13 +1,19 @@
 ---
-title: Trustless Unincorporated Nonprofit Association Agreement ("TUNAA")
+title:
 sidebar_position: 1
 ---
+
+# Trustless Unincorporated Nonprofit Association Agreement ("TUNAA")
+
+:::info
+
+:::
 
 ## Article I - Organization
 
 ### Section 1.1 Status.
 
-[INSERT NAME HERE] DAO (the "DAO") is a "nonprofit association" under the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916. The DAO is not intended to be, and shall not be deemed to be, a partnership.
+DAO (the "DAO") is a "nonprofit association" under the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916. The DAO is not intended to be, and shall not be deemed to be, a partnership.
 
 ### Section 1.2 Purposes.
 
@@ -124,13 +130,18 @@ This TUNAA may be amended by presenting the redlined version of the amendments a
 
 ### Article VII - Definitions
 
-    (a) “Account Address” means a public key address on the Designated Blockchain Network that is uniquely associated with a single private key or equivalent.
-    (b) “Consensus Rules” means the rules for transaction validity, block validity and determination of the canonical blockchain that are embodied in the Designated Client.
-    (c) “Contract” means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
-    (d) “DAO Property" means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of the DAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
-    (e) “Designated Blockchain” means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Blockchain Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules. The initial Designated Blockchain shall be theEthereum blockchain as recognized by the Designated Blockchain Client on the Designated Blockchain Network.
-    (f) “Designated Blockchain Client” means the blockchain software client designated as the “Designated Blockchain Client” by the Members.
-    (g) “Designated Blockchain Network” means the blockchain network desig- nated as the “Designated Blockchain Network” by the Members. The initial Designated Blockchain Network shall be the Official Go Ethereum client available at "https://github.com/ethereum/go-ethereum", as recognized by the Designated Blockchain Client.
-    (h) “Designated Smart Contract” means the smart contract deployed at an address associated with the creation of the DAO on the Designated Blockchain associated with the Members and Cryptographic Units.
-    (i) “Liability” means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
-    (j) “Guild Kick” means removal from the membership via vote by Members upon their Cryptographic Units to destroy another Member’s Cryptographic Units through a burn function or other similar process. Unless specifically provided otherwise, or in the Designated Smart Contract, a member subject to a Guild Kick shall not be entitled to any distribution or return of capital, funds, retains, etc.
+(a) “Account Address” means a public key address on the Designated Blockchain Network that is uniquely associated with a single private key or equivalent.
+
+(b) “Consensus Rules” means the rules for transaction validity, block validity and determination of the canonical blockchain that are embodied in the Designated Client.
+
+(c) “Contract” means any:
+(i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or
+(ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
+
+(d) “DAO Property" means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of the DAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
+(e) “Designated Blockchain” means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Blockchain Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules. The initial Designated Blockchain shall be theEthereum blockchain as recognized by the Designated Blockchain Client on the Designated Blockchain Network.
+(f) “Designated Blockchain Client” means the blockchain software client designated as the “Designated Blockchain Client” by the Members.
+(g) “Designated Blockchain Network” means the blockchain network desig- nated as the “Designated Blockchain Network” by the Members. The initial Designated Blockchain Network shall be the Official Go Ethereum client available at "https://github.com/ethereum/go-ethereum", as recognized by the Designated Blockchain Client.
+(h) “Designated Smart Contract” means the smart contract deployed at an address associated with the creation of the DAO on the Designated Blockchain associated with the Members and Cryptographic Units.
+(i) “Liability” means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
+(j) “Guild Kick” means removal from the membership via vote by Members upon their Cryptographic Units to destroy another Member’s Cryptographic Units through a burn function or other similar process. Unless specifically provided otherwise, or in the Designated Smart Contract, a member subject to a Guild Kick shall not be entitled to any distribution or return of capital, funds, retains, etc.

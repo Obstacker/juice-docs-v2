@@ -1,11 +1,18 @@
 ---
-title: Trust
+title: Trust Agreement
 sidebar_position: 1
 ---
+
 ```
 // TODO: format me
 ```
+
 [Trust Document](papers/Trust.docx)
+
+individual
+entity
+
+---
 
 TREASURYDAO
 REVOCABLE LIVING TRUST AGREEMENT
