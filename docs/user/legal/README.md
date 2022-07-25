@@ -19,15 +19,12 @@ Please read the above disclaimers carefully and repeatedly. While the informatio
 
 Likely you are interested in creating a Juicebox project and in doing so are generally concerned about the legal ramifications. The right answer differs based on your specific facts and circumstances, nonetheless, the information found here is organized in the following sub-sections:
 
-0. [Level setting, the law and you.](./law-and-you.md)
-1. [High-level overview of each type of Juicebox projects.](./)
-2. Example legal entities which can be created alongside your Juicebox project.
+1. [Level setting, the law and you.](./law-and-you.md)
+2. [Example legal entities which can be created alongside your Juicebox project.](./legal-entities.md)
 3. [Examples reference documents for each legal entity, which you may download and modify.](./references.md)
-4. Examples of executed agreements and reference to their project.
-5. Large body of legal research around the subject of crypto in general.
-6. References to other online resources.
-
-Included in the above sections are additional facts intended to provide color or background.
+4. [Stable of formation agreements[^1].](./Resources/ccorp/index.md)
+5. [Collection of survey and legal analysis generally about DAOs.](./Resources/papers/)
+6. [References to other online resources.](./references.md)
 
 :::warning
 Juicebox seeks to be as diligent as possible in compiling and updating the information on its website. However, there is no guarantee of the correctness and completeness of the information provided here. Juicebox does not guarantee that this information is up to date and such information may be subject to change at any time and without notice.
@@ -40,3 +37,5 @@ Throughout this Legal Reference section there will some analysis of, description
 > The primary purpose of Juicebox DAO ("DAO") helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum. The DAO and its community build and maintain the **Juicebox protocol**, a framework for funding and operating projects ("Member Projects") openly on Ethereum. Its contracts allow communities to deploy an administrative NFT, programmable payment terminals for receiving ("Contributions") and distributing funds ("Payouts"), project tokens ("Project Tokens") for community membership, and funding cycles for time-locked and recurring constraints—all in powerful, customizable ways.
 
 How you configured your Member Project, including Payouts will affect the legal implications of your project, if any.
+
+[^1]: The corporate formation agreements and trust templates have been provided by counsel and used commercially as well as the containing provisions therein defended in subsequent litigation.

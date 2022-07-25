@@ -6,10 +6,12 @@ sidebar_position: 2
 -   [Investment Club LLC](papers/Example-Operating-Agreement-Investment-Club-Series-LLC.docx)
 -   [Source](https://guide.syndicate.io/web3-investment-clubs/create-a-legal-entity)
 
+```
 [ENTITY LLC NAME ],
 A DELAWARE LIMITED LIABILITY COMPANY
 [SERIES NAME],]
 A SERIES OF [ENTITY LLC NAME ],
+```
 
 # Investment Club LLC
 

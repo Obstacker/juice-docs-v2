@@ -3,18 +3,18 @@ title: Legal Overview
 sidebar_position: 2
 ---
 
-## Introductions
+## Juicebox Projects, Project Owners, and any Duties which attach
 
-When creating a Juicebox treasury, legal considerations arise. Juicebox Projects may be configured to operate a simple shared bank account, or set aside funds for a specific purpose over a long period of time, a non-profit, for-profit, or one-time fund raising activity [^1]. You'll need to weight specific facts you, as the Project Owner, or Member, understand are your goals, due to the novelty of crypto and DAOs, the journey to weighing competent legal options or any ramifications to actions or inactions are not clear. A short background on some legal concepts may be helpful in understanding what liability protection maybe needed, if any.
+After creating a Juicebox project, and the prospect of significant funds backing your idea or community support catching on like wildfire causes pause to think through how the funds are managed legally. Juicebox projects may be configured to operate a simple shared bank account, or set aside funds for a specific purpose over a long period of time, both non-profit, and for-profit, or the true bluebirds which come out of nowhere [^1]. You'll need to weight specific facts you, as the Project Member, or Owner. Following is a short background legal concepts may be helpful in understanding what potential liability arises.
 
 :::warning
-ANY GOVERNANCE TOKENS RECEIVED BY MEMBERS HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE UNITED STATES SECURITIES AND EXCHANGE COMMISSION, ANY STATE SECURITIES COMMISSION, OR OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON THE MERITS OF THIS OFFERING OR UPON THE ACCURACY OR ADEQUACY OF THIS AGREEMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OR SOLICITATION TO ANYONE IN ANY JURISDICTION IN WHICH SUCH OFFER OR SOLICITATION IS NOT AUTHORIZED.
-
-ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. JUICEBOX'S POSITION IS THAT THEY SHOULD NOT BE SINCE THE PURPOSE OF JUICEBOX IS TO MANAGE ETHEREUM TREASURIES, PROVIDES NO RIGHTS TO ANY DISTRIBUTION OR PROFITS, AND ARE NON-TRANSFERRABLE EXCEPT DETAILED IN THE TERMS OF USE.
+NONE OF THE INFORMATION, SERVICES OR MATERIALS OFFERED ON OUR SITE CONSTITUTE, AND ARE NOT INTENDED TO CONSTITUTE, LEGAL, FINANCIAL, TAX, INVESTMENT OR OTHER ADVICE, AND YOU SHOULD NOT ACT OR REFRAIN FROM ACTING BASED ON ANY INFORMATION, SERVICES OR MATERIALS PROVIDED ON THIS SITE. ALL CONTENT ON OUR SITE IS INFORMATION OF A GENERAL NATURE AND DOES NOT ADDRESS THE UNIQUE CIRCUMSTANCES OF ANY PARTICULAR USER. YOU ARE STRONGLY URGED TO CONSULT WITH YOUR OWN LEGAL, FINANCIAL, TAX, INVESTMENT AND OTHER ADVISORS AS TO ALL LEGAL, FINANCIAL, TAX AND INVESTMENT-RELATED QUESTIONS YOU HAVE.
 :::
 
 :::info
-TLDR. Juicebox Project Owners based on what say or do (orally, or written, i.e. on twitter and twitter spaces) to induce 3rd parties to contribute to the Project may enter into an agreement. Once an agreement has been formed between parties, the parties owe each other duties, which breached, either lack of performance or payment, the party is in breach of a specific duty of which there are many, and a civil tort arises for which the injured party may file a claim against the other party for damages.
+TLDR; Based on entirely what you say, promise or claim you will do with the funds determines the degree of responsibility you have over the collected funds.  If you promise the funds will be used for a specific purpose or purposes, then you are acting as the trustee of all the contributions, such that a trust would be a logical device to ensure you follow through. You can not misrepresent the use of proceeds, omit expenditures or otherwise in a roll of a Project Owner. 
+
+Once an agreement has been formed between parties, the parties owe each other duties, which breached, either lack of performance or payment, the party is in breach of a specific duty of which there are many, and a civil tort arises for which the injured party may file a claim against the other party for damages.
 :::
 
 ### Laws, Case Law, Statutes, and Jurisdiction

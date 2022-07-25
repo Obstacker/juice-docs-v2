@@ -3,7 +3,7 @@ title: Nevada Unincorporated NonProfit Association
 sidebar_position: 1
 ---
 
-JuiceboxDAO, a Nevada nonprofit
+ExampleDAO, a Nevada nonprofit
 
 # GUIDING PRINCIPLES
 

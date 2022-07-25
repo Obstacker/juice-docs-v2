@@ -75,6 +75,8 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 (b) Compulsory Withdrawal. Not in limitation of Section 6(a), the Members acting by vote via the Dapp may cause a Member to be compulsorily withdrawn from the DAO to the extent that such Members, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members. For the avoidance of doubt–the Member proposed to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding such compulsory withdrawal.
 
+(c) Emergency Immediate Compulsory Withdrawal For Cause. Not in limitation of Section 6(a), 6(b), any Member, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members
+
 #### Fees and Expenses.
 
 (a) Organizational Expenses. The DAO shall bear all of its organizational expenses and costs, and may amortize these expenses for accounting and/or tax purposes.
