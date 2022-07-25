@@ -3,9 +3,6 @@ title: Investment Club LLC
 sidebar_position: 2
 ---
 
-```typescript
-// TODO: format me with project search and replace terms
-```
 
 [Investment Club LLC](papers/Example-Operating-Agreement-Investment-Club-Series-LLC.docx)
 [Source](https://guide.syndicate.io/web3-investment-clubs/create-a-legal-entity)
@@ -15,14 +12,9 @@ A DELAWARE LIMITED LIABILITY COMPANY
 [SERIES NAME],]
 A SERIES OF [ENTITY LLC NAME ],
 
-# Tank legal investment-club.md
+# Investment Club LLC
 
-Sourced from Syndicate. Pertinent info needed for this doc:
-
-ENTITY LLC NAME ],
-A DELAWARE LIMITED LIABILITY COMPANY
-[SERIES NAME],]
-A SERIES OF [ENTITY LLC NAME ],
+**Sourced from Syndicate. Pertinent info needed for this doc:**
 
 LLC/Series name/AKA “Vehicle Name” (name of project)
 
