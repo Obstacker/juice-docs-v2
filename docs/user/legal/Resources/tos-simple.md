@@ -21,29 +21,29 @@ Website and App are used as the interfaces to view and add the content (hereinaf
 
 If a User posts Content through the Website or App, posts links on the Website or App, or otherwise make (or allow any third party to make) material available by means of the Website and App, User is entirely responsible for the Content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, User represents and warrants that:
 
-the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+1. Rhe downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
 
-User has fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+2. Rhw user has fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
 
-the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+3. The content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
 
-the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+4. The Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
 
-the Content is not pornographic, libellous, or defamatory, does not contain threats or incite violence towards individuals or entities, and does not violate the privacy or publicity rights of any third party.
+5. The Content is not pornographic, libellous, or defamatory, does not contain threats or incite violence towards individuals or entities, and does not violate the privacy or publicity rights of any third party.
 
 ## Limitation of Liability
 
 In no event will TreasuryDAO be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for:
 
-any special, incidental or consequential damages;
+1. any special, incidental or consequential damages;
 
-any content published by third parties on Website or App,
+2. any content published by third parties on Website or App,
 
-the cost of procurement of substitute products or services;
+3. the cost of procurement of substitute products or services;
 
-for interruption of use or loss or corruption of data; or
+4. or interruption of use or loss or corruption of data; or
 
-for any amounts that exceed the fees paid by User to TreasuryDAO under this Agreement during the twelve (12) month period prior to the cause of action.
+5. for any amounts that exceed the fees paid by User to TreasuryDAO under this Agreement during the twelve (12) month period prior to the cause of action.
 
 TreasuryDAO shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
