@@ -1,19 +1,17 @@
 ---
-title: "Types of Entities"
+title: "Agreements"
 sidebar_position: 3
 ---
-
-# DAO Wrappers
 
 :::info
 Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions. Juicebox does not endorse or make any representation as to the capabilities of any tax advisor within our Discord and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
 :::
 
-Whether your Juicebox treasury requires a formal legal structure is ultimately up to you. However there are a number of options and examples where a Juicebox project may operate without a legal structure. This section seeks to present information on what choices and options available to you. As a friendly reminder, this documentation, Juicebox Discord server, are not replacements from legal, tax, or accounting advice. Please do your own research.
+Whether your Juicebox treasury requires a formal legal structure, written agreement, or remain unincorporated is ultimately up to you. This section make available common agreements between Juicebox Member Projects, Contributors, and Project Contributors.  _As a friendly reminder, this documentation, Juicebox Discord server, are not replacements from legal, tax, or accounting advice. Please do your own research._
 
 ## Legal Structures
 
-While not a structure in the layman's sense, a legal structure is a set of rules and procedures that define the legal relationship between a project and its members. The most common legal structure is a corporation. However, there are many other options, including a partnership, LLC, or S-Corp. A structure may also be a loan between one or many parties, below are a few structures which do not require any formal filings, which may suffice.
+A legal structure is an agreement between parties to form an enterprise for a common lawful purpose. The most common legal structure is a corporation. However, there are many other options, including a partnership, LLC, or S-Corp. 
 
 ### **Promissory Note (Loan)**
 

@@ -1,7 +1,11 @@
 ---
-title: Juicebox Purpose
-sidebar_position: 2
+title: Purpose
+sidebar_position: 1
 ---
+
+#### Mission.
+
+JuiceboxDAO helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum.
 
 #### Purpose.
 
@@ -23,7 +27,3 @@ Features of the Juicebox protocol include:
 Juicebox treasuries can evolve over time, allowing people to launch open-ended projects and to adjust constraints, extensions, and incentives over time as needed. The protocol is light enough for a group of friends, yet powerful enough for a global network of anons sharing thousands of ETH, ERC-20s, or other assets ("Cryptocurrencies").
 
 The DAO shall have the power to do any and all acts appropriate, convenient, desirable, incidental, or necessary to or in furtherance of the purposes described in this Agreement, including, without limitation, any and all of the powers that may be exercised on behalf of the DAO by its members. The DAO shall not engage in profit-making activities. Any profits that are incidentally accrued or earned from any of the DAO's activities will be used or set aside for the DAO's nonprofit purposes.
-
-#### Mission.
-
-JuiceboxDAO helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum.

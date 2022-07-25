@@ -5,24 +5,19 @@ sidebar_position: 1
 
 ```
 Variable terms:
-INDIVIDUAL
-ENTITY
-CITY
-STATE
+INDIVIDUAL, ENTITY
+TRUSTEE
+CITY, STATE
 ```
 
 [Trust Document](papers/Trust.docx)
 
-
 ---
 
-# TREASURYDAO REVOCABLE LIVING TRUST AGREEMENT
+# REVOCABLE LIVING TRUST AGREEMENT
 
 DECEMBER 20, 2021
-
-TREASURYDAO
 REVOCABLE LIVING TRUST AGREEMENT
-
 [CITY, STATE]
 
 ---
@@ -39,13 +34,13 @@ Lifetime Rights and Appointment of co-Trustees
 
 This Trust is specifically set up to provide financial resources and economic support for the beneficiary named below. Grantor has deemed it appropriate to provide for the beneficiary and hereby establishes the Trust primarily to achieve those goals. The Trustee shall be empowered and directed to do the following:
 
-  (1) Make any payment of income or principal of this Trust as Grantor may from time to time direct;
+> (1) Make any payment of income or principal of this Trust as Grantor may from time to time direct;
 
-  (2) Pay or apply such part or all of the income and principal of this Trust as Grantor or the co-Trustees may deem necessary to fulfill the goals of the       Trust;
+> (2) Pay or apply such part or all of the income and principal of this Trust as Grantor or the co-Trustees may deem necessary to fulfill the goals of the Trust;
 
-  (3) Take any other action that Grantor may deem necessary for the goals and aims of the Trust.
+> (3) Take any other action that Grantor may deem necessary for the goals and aims of the Trust.
 
-  (4) The initial Trustee [INDIVIDUAL], who shall serve for as long as Grantor deems necessary.
+> s(4) The initial Trustee [INDIVIDUAL], who shall serve for as long as Grantor deems necessary.
 
 ## ARTICLE II
 
@@ -70,28 +65,30 @@ If the Grantor dies while the Trust is still operational and valid then the role
 ## ARTICLE IV
 
 ### Fiduciary Powers of Trustee
+
 Grantor hereby grants the Trustee (and any successor Trustee or co-Trustee) the authority and power to exercise, in his or her sole discretion and without court order, in respect of any property forming part of any Trust created under this agreement or otherwise in its possession hereunder, all powers conferred by law upon Trustee, or expressed in this agreement, and we intend that the powers so granted be construed in the broadest possible manner. In addition, the Trustee shall also have the power, authority and discretion hereinafter set forth:
 
-  (1) To take any action necessary to manage and operate the Trust: To make any decision he/she deems necessary to manage and operate the Trust or any           other entity deemed appropriate and necessary by the Grantors to carry out the purpose of the Trust.
+> (1) To take any action necessary to manage and operate the Trust: To make any decision he/she deems necessary to manage and operate the Trust or any other entity deemed appropriate and necessary by the Grantors to carry out the purpose of the Trust.
 
-  (2) Transactions Between Related Entities: To transfer or move assets of any entity established or created by this Trust, as Executor or Trustee or any         other Trust or estate, to fulfill the goals and purposes of the Trust.
+> (2) Transactions Between Related Entities: To transfer or move assets of any entity established or created by this Trust, as Executor or Trustee or any other Trust or estate, to fulfill the goals and purposes of the Trust.
 
-  (3) Court Accounting and Bond Excused: The Trustee shall not be required to qualify, to make or file any inventory, appraisal, account or report to any         court or to give bond while he/she serves as co-Trustee.
+> (3) Court Accounting and Bond Excused: The Trustee shall not be required to qualify, to make or file any inventory, appraisal, account or report to any court or to give bond while he/she serves as co-Trustee.
 
-  (4) Withholding for Taxes: To withhold distribution of any amount of property sufficient, in his/her sole judgment, to cover any liability that may be         imposed on the Trustee for taxes until such liability is finally determined and paid.
+> (4) Withholding for Taxes: To withhold distribution of any amount of property sufficient, in his/her sole judgment, to cover any liability that may be imposed on the Trustee for taxes until such liability is finally determined and paid.
 
-  (5) The Trustee shall not be personally liable to any Grantor or beneficiary or other party interested in this Trust, or to any third parties, for any        claim against the Trust for any action undertaken by the Trust to achieve the purpose of the Trust; provided that the Trustee shall not be excused          from liability for his/her own wrongful or willful acts.
+> (5) The Trustee shall not be personally liable to any Grantor or beneficiary or other party interested in this Trust, or to any third parties, for any claim against the Trust for any action undertaken by the Trust to achieve the purpose of the Trust; provided that the Trustee shall not be excused from liability for his/her own wrongful or willful acts.
 
-  (6) The Trust and the Grantor shall indemnify and hold harmless Trustee for any action taken by Trustee on behalf of the Trust and at the direction of         Grantor in good faith in the event any other entity or third party files a claim or suit naming Trustee.  
+> (6) The Trust and the Grantor shall indemnify and hold harmless Trustee for any action taken by Trustee on behalf of the Trust and at the direction of Grantor in good faith in the event any other entity or third party files a claim or suit naming Trustee.
 
-  (7) Miscellaneous Powers:
-    (a) To consent to the reorganization, consolidation, merger, liquidation, readjustment or other change in any corporation, company or association;
-    (b) To compromise, settle, arbitrate, or defend any claim or demand in favor of or against the Trust;
-    (c) To incur and pay the ordinary and necessary expenses of administration, including but not limited to reasonable attorneys’ fees, accounting fees,           investment fees, etc.
-    (d) To act through an agent or attorney-in-fact, by and under any power duly executed by any the Trustee, to the extent permitted by law;
-    (e) The creation of any business entity, including a corporation, for any purpose deemed appropriate by the Trustee, including the retention of experts         and professionals to assist in the formation and management of the corporation;
-    (f) The creation of any banking account, payroll account, or other financial account deemed necessary by the Trustee to manage the affairs of the Trust         or an entity controlled by the Trust;
-    (g) The Trustee may freely act under all or any of the powers by this agreement given to him in all matters concerning the Trust, after forming their           judgment based upon all the circumstances of any particular situation as to the wisest and best course to pursue in the interest of the Trust and           the beneficiaries, without the necessity of obtaining the consent or permission of any interested person, or the consent or approval of any court.
+> (7) Miscellaneous Powers:
+
+-   (a) To consent to the reorganization, consolidation, merger, liquidation, readjustment or other change in any corporation, company or association;
+-   (b) To compromise, settle, arbitrate, or defend any claim or demand in favor of or against the Trust;
+-   (c) To incur and pay the ordinary and necessary expenses of administration, including but not limited to reasonable attorneys’ fees, accounting fees, investment fees, etc.
+-   (d) To act through an agent or attorney-in-fact, by and under any power duly executed by any the Trustee, to the extent permitted by law;
+-   (e) The creation of any business entity, including a corporation, for any purpose deemed appropriate by the Trustee, including the retention of experts and professionals to assist in the formation and management of the corporation;
+-   (f) The creation of any banking account, payroll account, or other financial account deemed necessary by the Trustee to manage the affairs of the Trust or an entity controlled by the Trust;
+-   (g) The Trustee may freely act under all or any of the powers by this agreement given to him in all matters concerning the Trust, after forming their judgment based upon all the circumstances of any particular situation as to the wisest and best course to pursue in the interest of the Trust and the beneficiaries, without the necessity of obtaining the consent or permission of any interested person, or the consent or approval of any court.
 
 ## ARTICLE VI
 
@@ -103,7 +100,7 @@ Grantor reserves the right to establish or add to the corpus of the Trust, and a
 
 ### Successor Trustee
 
-The Grantor shall have the power to change or appoint a successor Trustee at any time.  
+The Grantor shall have the power to change or appoint a successor Trustee at any time.
 
 ## ARTICLE VII
 

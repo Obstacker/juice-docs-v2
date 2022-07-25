@@ -1,11 +1,7 @@
 ---
 title: Terms of Service
-sidebar_position: 8
+sidebar_position: 5
 ---
-
-```typescript
-// TODO: copy disclaimers to those dedicated pages, cite terms of service
-```
 
 ## Juicebox Terms of Service
 
@@ -13,7 +9,7 @@ Last Updated: July 18, 2022
 
 ### Introduction
 
-Please read these terms of service (“Terms”) carefully. These Terms are between you and **Juicebox DAO** (the “DAO,” “we,” “us,” or “our”) concerning your use of the **Juicebox’s site**, currently located at https://juicebox.money (the “Site”) which acts as a front-end to the **Juicebox protocol** (the "DAO Protocol") available on one or more blockchains via smart contracts (“Smart Contracts”). These Terms apply to you (“you,” or “User”) as a user of the Site and its front-end, including all the products, services, tools, source code repository ("Repository") and information made available on the Site.
+Please read these terms of service (“Terms”) carefully. These Terms are between you and **Juicebox DAO** (the “DAO,” “we,” “us,” or “our”) concerning your use of the **Juicebox’s site**, currently located at https://juicebox.money (the “Site”) which acts as a front-end to the **Juicebox protocol** (the "DAO Protocol") available on one or more blockchains via [smart contracts (“Smart Contracts”)](./contract-addresses.md). These Terms apply to you (“you,” or “User”) as a user of the Site and its front-end, including all the products, services, tools, source code repository ("Repository") and information made available on the Site.
 
 ### By using the Site, you agree to these Terms
 

@@ -1,11 +1,7 @@
 ---
 title: Privacy Policy
-#sidebar position:
+sidebar position: 2
 ---
-
-```typescriptv
-// TODO: format me, define abbreviations
-```
 
 We want to process as little personal information as possible when you use our website. That's why we've chosen Fathom Analytics for our website analytics, which doesn't use cookies and complies with the GDPR, ePrivacy (including PECR), COPPA and CCPA. Using this privacy-friendly website analytics software, your IP address is only briefly processed, and we (running this website) have no way of identifying you. As per the CCPA, your personal information is de-identified. You can read more about this on [Fathom Analytics' website](https://usefathom.com/).
 

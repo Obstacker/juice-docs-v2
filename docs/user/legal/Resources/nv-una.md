@@ -3,29 +3,23 @@ title: Nevada Unincorporated NonProfit Association
 sidebar_position: 1
 ---
 
-```typescript
-// TODO: format me
-```
-
 JuiceboxDAO, a Nevada nonprofit
 
 # GUIDING PRINCIPLES
 
-These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of JuiceboxDAO (hereinafter “DAO” or “Treasury”), an unincorporated nonprofit association organized under the laws of the State of Nevada. **The following terms apply when you click to view or access DAO's Decentralized Application (or "Dapp") or DAO's other online services, contribute Ethereum via https://juicebox.money (or via any project hosted therein), become a Member of the DAO, receive DAO Tokens, hold Governance Rights for Treasury, interact with or access Treasury's smart contracts in any way, provide services to Treasury, donate or transfer any property to Treasury, or otherwise interact with or access Treasury's services through the Dapp. By doing any of the above, you signify your agreement to these terms.** If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use Treasury. Capitalized terms used herein have the meanings ascribed to them in Section 17.
+These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of ExampleDAO (hereinafter “DAO” or “Treasury”), an unincorporated nonprofit association organized under the laws of the State of Nevada. The following terms apply when you click to view or access DAO's Decentralized Application (or "Dapp") or DAO's other online services, contribute Ethereum via https://exampledao.money (or via any project hosted therein), become a Member of the DAO, receive DAO Tokens, hold Governance Rights for Treasury, interact with or access Treasury's smart contracts in any way, provide services to Treasury, donate or transfer any property to Treasury, or otherwise interact with or access Treasury's services through the Dapp. By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use Treasury. Capitalized terms used herein have the meanings ascribed to them in Section 17.
 
 ## Organization
 
-(a) Formation. Treasury was formed on August 7, 2021. The duties and obligations of the Members of the DAO shall be determined pursuant to the Revised  Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890 inclusive, and this Agreement.
+(a) Formation. Treasury was formed on August 7, 2021. The duties and obligations of the Members of the DAO shall be determined pursuant to the Revised Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890 inclusive, and this Agreement.
 
-(b) Purpose. **The primary purpose of the DAO is to build and create a blockchain-native treasury focused on the accounting and governance of other treasuries for the same purpose.** The DAO shall have the power to do any and all acts appropriate, convenient, desirable, incidental, or necessary to or in furtherance of the purposes described in this Agreement, including, without limitation, any and all of the powers that may be exercised on behalf of the DAO by its members. The DAO shall not engage in profit-making activities. Any profits that are incidentally accrued or earned from any of the DAO's activities will be used or set aside for the DAO's nonprofit purposes.
+(b) Purpose. The primary purpose of the DAO is to build and create a blockchain-native treasury focused on the accounting and governance of other treasuries for the same purpose. The DAO shall have the power to do any and all acts appropriate, convenient, desirable, incidental, or necessary to or in furtherance of the purposes described in this Agreement, including, without limitation, any and all of the powers that may be exercised on behalf of the DAO by its members. The DAO shall not engage in profit-making activities. Any profits that are incidentally accrued or earned from any of the DAO's activities will be used or set aside for the DAO's nonprofit purposes.
 
 ## Membership; Governance Rights and Tokens; Limitations
 
 (a) Governance Rights. Governance Rights in the DAO are represented by cryptographically secured tokens ("Tokens"), with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time.
 
-// TODO: break out
-
-**(b) Tokens. As of the date hereof, Tokens authorized to represent membership interests in the DAO. The DAO shall provide to each Member One Million (1,000,000) Tokens for each Ethereum donated to the DAO, unless otherwise agreed to by the Members via a vote occurring through the Dapp. Notwithstanding the foregoing or any other provision of this Agreement, the DAO shall provide the members in Exhibit A and members of its technical partners, Two Hundred Thousands (200,000) Tokens, each, for their role in conceiving and supporting the DAO.\***
+(b) Tokens. As of the date hereof, Tokens authorized to represent membership interests in the DAO. The DAO shall provide to each Member One Million (1,000,000) Tokens for each Ethereum donated to the DAO, unless otherwise agreed to by the Members via a vote occurring through the Dapp. Notwithstanding the foregoing or any other provision of this Agreement, the DAO shall provide the members in Exhibit A and members of its technical partners, Two Hundred Thousands (200,000) Tokens, each, for their role in conceiving and supporting the DAO.
 
 (c) Governance Rights and Token Limitations. Possession or ownership of any of the Tokens issued by the DAO do not provide any right of ownership or management of the DAO and does no provide the holder of a token any possibility of a profit, nor any right to a future distribution or dividends paid by the DAO. By entering this Agreement each Member (or assignees, as the case may be) who receives or holds governance Tokens expressly and unequivocally agrees that the Tokens provide no rights to an expectation of profit, no entitlement to distributions or dividends from the DAO, and no right of ownership or management of the DAO.
 
@@ -95,11 +89,11 @@ These guiding principles constitute an Agreement (hereinafter the "Agreement") a
 
 ## Limitations on Transfers
 
-**(a) Transfers. Governance Rights and Tokens are not transferable. Members may vote to allow or disallow the ability of Members to transfer their Governance Rights and/or Tokens by a vote facilitated via the Dapp. Tokens may become freely transferable to Ethereum addresses outside of the DAO ("External Addresses") by a vote of the Members. Tokens issued for the purpose of participating in governance by the DApp, or Snapshot, are transferable via "delegation". In the event the Tokens become freely transferable to an External Addresses, each Member agrees that holders of the External Address shall automatically be granted Membership rights within the DAO which “new” Members shall be subject to this Agreement.**
+(a) Transfers. Governance Rights and Tokens are not transferable. Members may vote to allow or disallow the ability of Members to transfer their Governance Rights and/or Tokens by a vote facilitated via the Dapp. Tokens may become freely transferable to Ethereum addresses outside of the DAO ("External Addresses") by a vote of the Members. Tokens issued for the purpose of participating in governance by the DApp, or Snapshot, are transferable via "delegation". In the event the Tokens become freely transferable to an External Addresses, each Member agrees that holders of the External Address shall automatically be granted Membership rights within the DAO which “new” Members shall be subject to this Agreement.s
 
 (b) Admission of Substituted Members. If the transferee is not already a Member, any transferee of Tokens that were transferred in accordance with the provisions of this Section shall be admitted as a Member. The DAO shall not recognize for any purpose any purported transfer of all or any part of a Member's interest or Tokens in the DAO, and no purchaser, assignee, transferee, or other recipient of all or any part of such Tokens shall become a Member hereunder unless:
 
-(i) Transfer of Tokens. The transferee of Tokens transferred the Tokens pursuant to this Section is admitted to the DAO as a transferee Member  and shall succeed to the rights and liabilities of the transferor Member with respect to such transferred Tokens.
+(i) Transfer of Tokens. The transferee of Tokens transferred the Tokens pursuant to this Section is admitted to the DAO as a transferee Member and shall succeed to the rights and liabilities of the transferor Member with respect to such transferred Tokens.
 
 (ii) Effect of Death, Dissolution, or Bankruptcy of a Member. Upon the death, incompetence, bankruptcy, insolvency, liquidation, or dissolution of a Member, the rights and obligations of that Member under this Agreement shall accrue to that Member's successor(s), estate, or legal representative, and each such Person shall be treated as an unadmitted transferee of that Member's Tokens, as described in the Act.
 
@@ -131,7 +125,7 @@ The DAO shall not be obligated to keep any books or records beyond what is made 
 
 ## Service Provider
 
-**(a) Appointment and Compensation of Service Provider. Treasury shall have the right to appoint a Service Provider to perform administrative services, responsibilities, and duties to carry on the DAO's operations, including maintenance of the Dapp and underlying smart contracts. Treasury shall have the right to provide the Service Provider with reasonable compensation.**
+(a) Appointment and Compensation of Service Provider. Treasury shall have the right to appoint a Service Provider to perform administrative services, responsibilities, and duties to carry on the DAO's operations, including maintenance of the Dapp and underlying smart contracts. Treasury shall have the right to provide the Service Provider with reasonable compensation.s
 
 (b) Limitation of Liability. Notwithstanding anything contained in this Agreement to the contrary, any Service Provider of Treasury shall not be liable for any error of judgment, mistake of law, or for any loss suffered by the DAO, its Members, Persons affiliated with the DAO or its Members, or third parties in connection with the matters to which this Agreement relates or for any services provided by the Service Provider, except for a loss resulting from the Service Provider's willful misfeasance, gross negligence, or reckless disregard in the performance of its duties under this Agreement. Furthermore, the Service Provider shall not be liable for: (i) any action taken or omitted in accordance with or in reliance upon written or oral instructions, advice, data, documents, or information (without investigation or verification) received by the Service Provider from any Person; (ii) any liability arising from the transfer or use of any Governance Rights or Tokens, including with respect to matters arising under applicable laws or private rights of action; or (iii) any action taken or omitted by the DAO, its Members, any affiliated Persons of the DAO or its Members, or any third party.
 
@@ -196,5 +190,3 @@ The DAO shall not be obligated to keep any books or records beyond what is made 
 "Representative" means a member, manager, officer, director, partner, employee, or agent.
 
 "Service Provider" means the Person appointed by Treasury to perform administrative services, responsibilities, and duties to carry on the DAO's operations. The initial Service Provider shall be dao-lawfirm.eth, its predecessor entities, or any future entity of dao-lawfirm.eth.
-
--   Token mechanic examples in-line with the funding cycles and Juicebox token distribution will be provided in a separate document.
