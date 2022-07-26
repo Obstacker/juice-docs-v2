@@ -667,7 +667,7 @@ IN WITNESS WHEREOF, the undersigned has executed this Agreement effective as of 
 ADMINISTRATIVE MEMBER:
 
 Name: [Print Administrative Member’s Name]
-Date:**\*\***\_\_\_\_**\*\***
+Date: `________________________`
 
 Member Signature Page
 
@@ -675,7 +675,7 @@ The undersigned Member hereby executes the Limited Liability Company Operating A
 
 (Print Name of Member)
 
-Dated: \***\*\_\_\*\***
+Dated: `________________________`
 
 (Signature of Member or Authorized Signatory)
 
