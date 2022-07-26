@@ -62,7 +62,7 @@ Regularly define, assess, prioritize, and publicly communicate the goals and pro
 **Membership**
 What does it mean to be a JuiceboxDAO member
 
-\*\*DAO members are responsible for proposing and voting on:
+\*DAO members are responsible for proposing and voting on:
 
 -   how the DAO's treasury funds are allocated.
 -   changes to the protocol the DAO has agreed to steward.

@@ -36,7 +36,8 @@ This sentence is intentionally left blanks.
 
 ### **Series, Master LLC**
 
-[Delaware Division of Corporations How to form new business entity](https://corp.delaware.gov/howtoform/)
+-   [Delaware Division of Corporations How to form new business entity](https://corp.delaware.gov/howtoform/)
+-   Closed-End Fund
 
 ### **S-Corp**
 
