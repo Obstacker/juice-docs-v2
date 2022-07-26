@@ -3,21 +3,18 @@ title: Reference Legal Agreements
 sidebar position: 1
 ---
 
-```typescript
-// TODO: include Delaware filing procedures
-```
-
 :::info
 This section contains common form agreements which you may find helpful. While its true that you may not be a bar passing doctorate, legal agreements are still valid and enforceable when written in vanilla prose and agreed upon by the parties. Avoiding Latin phrases or terminology which is confusing or at risk of being used incorrectly, and instead state your understanding in plain language is not only preferred but completely legal.
 :::
 
-The following agreements use **TreasuryDAO** and **Treasury** as the name of the example DAO and application respectively, feel free to search and replace these terms with your own name and application.
+The following agreements use **ExampleDAO** and **Example** as the name of the Example DAO and application respectively, feel free to search and replace these terms with your own name and application.
 
 ### Terms of Service (Use)
 
 This section is intentionally blank.
 
--   [Example](tos-simple)
+-   [Acceptable Use](./others/acceptable-use.md)
+-   [Terms of Service](../Juicebox/tos.md)
 
 ### Privacy Policy
 
@@ -25,6 +22,9 @@ This section is intentionally blank.
 
 ### Loan Agreements
 
+-   [Simple Loan Agreement](./loans/note-template.md)
+-   [IOU Loan Agreement](./loans/iou-template.md)
+-   [Promissory Note](./loans/promissory-note-template.md)
 -   [Secured Promissory Note Template](secured-promissory-note-template)
 
 ### Trust Agreements
