@@ -3,16 +3,14 @@ title: "Glossary"
 sidebar_position: 6
 ---
 
-> Reference Juicebox glossary
-
 "Act" has the meaning ascribed to that term in Section 1(a).
 
 "Affiliate" means, with respect to any Person, any other Person controlling, controlled by, or under common control with such Person; in such context, "control" means the possession, directly or indirectly, of the power to direct the management or policies of another, whether through the ownership of voting securities, by contract, or otherwise.
 "Agreement" means this Guiding Principles Agreement of Treasury DAO.
 
-"Conflict of Interest"
+"Conflict of Interest" A conflict of interest occurs when an entity or individual becomes unreliable because of a clash between personal (or self-serving) interests and professional duties or responsibilities. Such a conflict occurs when a company or person has a vested interest—such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgment, and/or decision-making can be unbiased. When such a situation arises, the party is usually asked to remove themselves, and it is often legally required of them.
 
-"Corporate Governance"
+"Corporate Governance" Corporate governance is the system by which companies are directed and controlled. Boards of directors are responsible for the governance of their companies. The shareholders' role in governance is to appoint the directors and the auditors and to satisfy themselves that an appropriate governance structure is in place.
 
 "DAO" means Treasury DAO, a Nevada unincorporated nonprofit association.
 
@@ -20,11 +18,11 @@ sidebar_position: 6
 
 "Dapp" means an online portal or other interactive software used by the DAO to operate an Internet-native treasury of treasuries which facilitates the accounting and management of cryptocurrency, fungible tokens, and non-fungible tokens ("NFTs"), which are maintained by the DAO, its Members, or another Person.
 
-"Duties"
+"Duties" A legal duty is an obligation, created by law or contract. A legal duty requires a person to conform their actions to a particular standard. And it also carries with it a recognition that the law will enforce this duty to the benefit of other individuals to whom this duty is owed.
 
-"Duty of Care"
+"Duty of Care" In tort law, a duty of care is a legal obligation which is imposed on an individual, requiring adherence to a standard of reasonable care while performing any acts that could foreseeably harm others. It is the first element that must be established to proceed with an action in negligence. The claimant must be able to show a duty of care imposed by law which the defendant has breached. In turn, breaching a duty may subject an individual to liability. The duty of care may be imposed by operation of law between individuals who have no current direct relationship (familial or contractual or otherwise) but eventually become related in some manner, as defined by common law (meaning case law).
 
-"Fiduciary Duty"
+"Fiduciary Duty" A fiduciary is a person who holds a legal or ethical relationship of trust with one or more other parties. Typically, a fiduciary prudently takes care of money or other assets for another person.
 
 "Governance Rights" means the entire interest of a Member in the DAO, as measured by a Member's Tokens, including, without limitation, all rights and obligations contemplated or agreed to under this Agreement, and any right to vote on, consent to, or otherwise participate in any decision or action of or by the Members granted by this Agreement or the Act.
 "Limited Liability Company"
@@ -43,7 +41,7 @@ sidebar_position: 6
 
 "Service Provider" means the Person appointed by Treasury to perform administrative services, responsibilities, and duties to carry on the DAO's operations.
 
-"Unincorporated Non-Profit"
+"Unincorporated Non-Profit" Legally, an unincorporated nonprofit association forms whenever at least two people agree to pursue a common lawful purpose that is not for profit. If the endeavor is for profit, it is called a partnership or joint venture.
 
 "Act" has the meaning ascribed to that term in Section 1(a).
 
@@ -118,3 +116,7 @@ sidebar_position: 6
 “Web3 Tools” The key characteristics of Web3 tools may include personal assistance learning, artificial intelligence, multimedia information, interoperability, and semantic nature. Tools used for the governance, tokenization, membership, voting and operation of a DAO.
 
 “Yield Farming” Yield farming is the practice of staking or lending crypto assets in order to generate high returns or rewards in the form of additional cryptocurrency. This innovative yet risky and volatile application of decentralized finance (DeFi) has skyrocketed in popularity recently thanks to further innovations like liquidity mining. In short, yield farming protocols incentivize liquidity providers (LP) to stake or lock up their crypto assets in a smart contract-based liquidity pool. These incentives can be a percentage of transaction fees, interest from lenders or a governance token (see liquidity mining below). These returns are expressed as an annual percentage yield (APY). As more investors add funds to the related liquidity pool, the value of the issued returns decrease accordingly.
+
+---
+
+[Juicebox Guiding Principals defined terms](./Juicebox/definitions.md)

@@ -3,19 +3,40 @@ title: Legal Overview
 sidebar_position: 2
 ---
 
-## Juicebox Projects, Project Owners, and any Duties which attach
+## Projects and the Project Owner's Duties
 
-After creating a Juicebox project, and the prospect of significant funds backing your idea or community support catching on like wildfire causes pause to think through how the funds are managed legally. Juicebox projects may be configured to operate a simple shared bank account, or set aside funds for a specific purpose over a long period of time, both non-profit, and for-profit, or the true bluebirds which come out of nowhere [^1]. You'll need to weight specific facts you, as the Project Member, or Owner. Following is a short background legal concepts may be helpful in understanding what potential liability arises.
+After creating a Juicebox project, the following emotions may occur:
+
+-   heightened expectations of the potential,
+-   daydreaming of the massive stacks of ETH rolling in,
+-   your original idea expands into World Domination,
+-   Nyancat releases a new animation with your project logo in frosting,
+-   community groundswell blows up Discord, your treasury approaches the stratosphere,
+-   what kind of legal, regulatory attention did all this bring?
+
+First, this the normal cycle of emotion, so-called the Hero's Journey, this is called the **Juice**. Its completely normal.
+
+Juicebox projects and their configuration vary wildly, how often their funding cycles occur, how much is paid out, and what is the purpose of the treasury. This is the power of Juicebox.
+
+:::warning
+You may not misrepresent the purpose of your treasury. This is a material breach of the Juicebox [terms of use](./Juicebox/tos.md). Juicebox treasuries are transparent funding devices where information asymmetry is enforced by [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/) on Ethereum. However, the funds eventually are released from the protocol to the Project Owner. You, as that Project Owner, have a duty to be forthright, truthful, and thoughtful.
+:::
+
+Common types of Juicebox projects are:
+
+-   one-time funding to acquire property or service, for-profit or non-profit
+-   reoccurring funding to do an activity or service, for-profit or non-profit
+-   one-time funding to acquire property or service, as a loan
 
 :::warning
 NONE OF THE INFORMATION, SERVICES OR MATERIALS OFFERED ON OUR SITE CONSTITUTE, AND ARE NOT INTENDED TO CONSTITUTE, LEGAL, FINANCIAL, TAX, INVESTMENT OR OTHER ADVICE, AND YOU SHOULD NOT ACT OR REFRAIN FROM ACTING BASED ON ANY INFORMATION, SERVICES OR MATERIALS PROVIDED ON THIS SITE. ALL CONTENT ON OUR SITE IS INFORMATION OF A GENERAL NATURE AND DOES NOT ADDRESS THE UNIQUE CIRCUMSTANCES OF ANY PARTICULAR USER. YOU ARE STRONGLY URGED TO CONSULT WITH YOUR OWN LEGAL, FINANCIAL, TAX, INVESTMENT AND OTHER ADVISORS AS TO ALL LEGAL, FINANCIAL, TAX AND INVESTMENT-RELATED QUESTIONS YOU HAVE.
 :::
 
-:::info
-TLDR; Based on entirely what you say, promise or claim you will do with the funds determines the degree of responsibility you have over the collected funds.  If you promise the funds will be used for a specific purpose or purposes, then you are acting as the trustee of all the contributions, such that a trust would be a logical device to ensure you follow through. You can not misrepresent the use of proceeds, omit expenditures or otherwise in a roll of a Project Owner. 
+### TLDR
+
+Based on entirely what you claim[^1] will do with the funds determines the degree of responsibility you have over the collected funds. If you promise the funds will be used for a specific purpose or purposes, then you are acting as the trustee of all the contributions, such that a trust would be a logical device to ensure you follow through. You can not misrepresent the use of proceeds, omit expenditures or otherwise in a roll of a Project Owner.
 
 Once an agreement has been formed between parties, the parties owe each other duties, which breached, either lack of performance or payment, the party is in breach of a specific duty of which there are many, and a civil tort arises for which the injured party may file a claim against the other party for damages.
-:::
 
 ### Laws, Case Law, Statutes, and Jurisdiction
 
@@ -58,14 +79,24 @@ A legal duty is an obligation, created by law or contract. A legal duty requires
 
 There exists a number of duties, according to Wikipedia[^3], care, candour, defend, to settle, rescue, retreat, report a felony, vote, warn, fiduciary, special formed upon contract, in loco parentis (like a parent to a child to nonhuman entities).
 
-:::warning
-Generally speaking, with the disclaimer this is not legal advice, doing dishonest things which involves misrepresentations, including omissions,
-:::
-
 ### For-profit, Non-profit, Incorporated, Unincorporated, DAOs
 
-The formation of a company which involves agreements and a license issued by the local government, create a new entity - the company, in which is legally recognized by law. This new entity has rights, and in some cases more rights afforded that the individuals who formed the corporation. The benefit to this entity recognition status is so the entity may enjoy profits, losses, and take advantage of all the resources afforded by other entities. However,
+In simplest terms, a business entity is an organization created by an individual or individuals to conduct business, engage in a trade or partake in similar activities. There are various types of business entities — sole proprietorship, partnership, LLC, corporation, etc. — and a business's entity type dictates both the structure of that organization and how that company is taxed.
 
-[^1]: Fund raising or aggregating capital for the purpose of profit seeking involves regulatory scrutiny, depending on your circumstances, start-up, investment club, you may need to seek guidance from legal counsel. [The Securities and Exchange Commission] provides guidance on this specific topic of an investment club.(https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html)
-[^2]: https://www.law.cornell.edu/wex/legal_duty#:~:text=A%20legal%20duty%20is%20an,whom%20this%20duty%20is%20owed.
-[^3]: https://en.wikipedia.org/wiki/Duty
+When starting a business, one of the first things you want to do is choose the structure of your company — in other words, choose a business entity type.[^5]
+
+Generally when establishing an entity, you register in the state where your business is located. The entity is organized between individuals by agreement, written or oral, or by performance. Therefore in addition to contract and tort law considerations, most entity structures are codified by the state in which they are located. Given organizations are themselves entities, the operation and governance is usually codified.
+
+Corporate law is the practice of law in which the shareholders, directors and officers and their relationships, rights both statutory and common, contract, and duties defined. The existence of an association of individuals operating as an unincorporated organization is so common a modal act exists for states to expand upon. Whether or not a state has specific statutes recognizing a DAO, the activities of the individuals are instructive. The following discussions use the term association, but this is interchangeable with Juicebox Treasury Owner.
+
+As highlighted above generally there are several factors of the association which determine what structure and duties are reasonable.
+
+-   Representations made by the association to the public
+-   What is the purpose of the association, and finally,
+-   Do the participants (project owner, members, contributors) have an expectation of profit?
+
+[^1]: Regardless if what you claim is oral or in writing, the performance of the parties and the ability for a 3rd party to understand the bargain, you are forming a duty.
+[^2]: Fund raising or aggregating capital for the purpose of profit seeking involves regulatory scrutiny, depending on your circumstances, start-up, investment club, you may need to seek guidance from legal counsel. [The Securities and Exchange Commission] provides guidance on this specific topic of an investment club.(https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html)
+[^3]: https://www.law.cornell.edu/wex/legal_duty#:~:text=A%20legal%20duty%20is%20an,whom%20this%20duty%20is%20owed.
+[^4]: https://en.wikipedia.org/wiki/Duty
+[^5]: Types of Business Entities, Priyanka Prakash
