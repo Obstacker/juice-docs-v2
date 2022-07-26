@@ -58,10 +58,10 @@ The full balance of the Borrowed Money, including all accrued interest and any o
 
 ☐ - Quarterly with any remaining balance payable on [DATE] (“Due Date”).
 
-Lender Signature: **********************\_\_********************** Date: **********************\_\_**********************
+Lender Signature: `________________________` Date: `________________________`
 
-Print Name: **********************\_\_**********************
+Print Name: `________________________`
 
-Borrower Signature: **********************\_\_********************** Date: **********************\_\_**********************
+Borrower Signature: `________________________` Date: `________________________`
 
-Print Name: **********************\_\_**********************
+Print Name: `________________________`
