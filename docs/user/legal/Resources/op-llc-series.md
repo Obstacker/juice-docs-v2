@@ -927,9 +927,9 @@ The undersigned, being duly authorized to execute and file this Certificate of R
     (Signature Page Follows)
     IN WITNESS WHEREOF, the undersigned has duly executed this Certificate of Registered Series.
 
-        						____________________________
 
-    Name:
+    Name: 	`________________________`
+    Signature: 	`________________________`
 	
     Authorized Person
 
