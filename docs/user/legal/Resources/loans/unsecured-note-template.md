@@ -143,14 +143,14 @@ This Note shall be governed under the laws in the State of Florida.
 
 This Note contains all the terms agreed to by the parties relating to its subject matter, including any attachments or addendums. This Note replaces all previous discussions, understandings, and oral agreements. The Borrower and Lender agree to the terms and conditions and shall be bound until the Borrower repays the Borrowed Money in full.
 
-Lender Signature: \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\*** Date: \***\*\_\_\_\_\*\***
+Lender Signature: `________________________` Date: `________________________`
 
-Print Name: \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
+Print Name: `________________________`
 
-Borrower Signature: \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\*** Date: \***\*\_\_\_\_\*\***
+Borrower Signature: `________________________` Date: `________________________`
 
-Print Name: \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
+Print Name: `________________________`
 
-Co-Signer Signature (if any): \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\*** Date: \***\*\_\_\_\_\*\***
+Co-Signer Signature (if any): `________________________` Date: `________________________`
 
-Print Name: \***\*\*\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*\*\***
+Print Name: `________________________`
