@@ -3,7 +3,7 @@ title: Guiding Principles
 sidebar_position: 3
 ---
 
-# Juicebox Guiding Principles Organization
+# Juicebox Guiding Principles
 
 #### Definitions.
 
