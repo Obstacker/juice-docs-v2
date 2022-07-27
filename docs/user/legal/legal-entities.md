@@ -1,5 +1,5 @@
 ---
-title: "Agreements"
+title: "Project IRL Types"
 sidebar_position: 3
 ---
 
@@ -7,9 +7,27 @@ sidebar_position: 3
 Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions. Juicebox does not endorse or make any representation as to the capabilities of any tax advisor within our Discord and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
 :::
 
-Whether your Juicebox treasury requires a formal legal structure, written agreement, or remain unincorporated is ultimately up to you. This section make available common agreements between Juicebox Member Projects, Contributors, and Project Contributors. _As a friendly reminder, this documentation, Juicebox Discord server, are not replacements from legal, tax, or accounting advice. Please do your own research._
+Whether your Juicebox treasury requires a formal legal structure, a collection of written agreements, or remains unincorporated is ultimately up to you. This section's purpose is to describe types of Juicebox Projects and the types of legal IRL frameworks which maybe employed. _As a friendly reminder, this documentation, Juicebox Discord server, are not replacements from legal, tax, or accounting advice. Please do your own research._
 
-## Legal Structures
+#### The Fund Raise Project
+
+This section describes the types of Fund Raises that can be performed by Juicebox.
+
+#### The Fund my Need Project
+
+This section describes the types of Fund my Need Project that can be performed by Juicebox.
+
+#### The Fund my Public Goods Project
+
+This section describes the types of Fund my Public Goods Project that can be performed by Juicebox.
+
+#### The Fund my Start-up Idea Project
+
+This section describes the types of Fund my Start-up Idea Project that can be performed by Juicebox.
+
+---
+
+## Links to Legal Structures Examples
 
 A legal structure is an agreement between parties to form an enterprise for a common lawful purpose. The most common legal structure is a corporation. However, there are many other options, including a partnership, LLC, or S-Corp.
 
