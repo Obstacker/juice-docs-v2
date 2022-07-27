@@ -3,7 +3,7 @@ title: Guiding Principles
 sidebar_position: 3
 ---
 
-# Guiding Principles Nevada
+# Juicebox Guiding Principles Organization
 
 #### Definitions.
 
@@ -21,7 +21,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 #### Purpose.
 
--   ss[See Misson and Purpose](./purpose.md)
+-   [See Misson and Purpose](./purpose.md)
 
 #### Membership; Governance Rights and Tokens; Limitations.
 
