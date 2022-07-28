@@ -13,7 +13,7 @@ Whether your Juicebox treasury requires a formal legal structure, a collection o
 
 This section describes the types of Fund Raises that can be performed by Juicebox.
 
-#### The Fund my Need Project
+#### The Fund my Needs Project
 
 This section describes the types of Fund my Need Project that can be performed by Juicebox.
 
@@ -21,9 +21,13 @@ This section describes the types of Fund my Need Project that can be performed b
 
 This section describes the types of Fund my Public Goods Project that can be performed by Juicebox.
 
-#### The Fund my Start-up Idea Project
+#### The Fund my Start-up Project
 
 This section describes the types of Fund my Start-up Idea Project that can be performed by Juicebox.
+
+#### The Join my Start-up Project
+
+This section is intentionally blank.
 
 ---
 

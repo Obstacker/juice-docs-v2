@@ -17,9 +17,9 @@ For the purposes of illustration, we will use ExampleDAO.
 
 3. **Entity purpose and scope.** Your Juicebox project has a wide use of practical applications. If you have a formed idea of the project / entity you formed and its scope then authoring the following descriptions should be painless, alternatively, if you _do not_ have a clear idea of what your project, utility or service will be, then being specific enough so others may have some notion of what their contribution will enable.
 
-    - a. One sentence description.
-    - b. Paragraph description.
-    - c. Full project description.
+    - One sentence description.
+    - Paragraph description.
+    - Full project description.
 
 ### Juicebox Project details
 

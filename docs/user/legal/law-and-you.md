@@ -62,9 +62,11 @@ When a contract breach occurs, there are several different remedies that are ava
 
 A legal remedy usually involves the party that breached the contract providing monetary restitution for the losses suffered by the other party. Legal remedies can take several different forms:
 
-> Compensatory damages
-> Consequential damages
-> Liquidated damages
+> **Compensatory damages**
+
+> **Consequential damages**
+
+> **Liquidated damages**
 
 An equitable remedy requires that the breaching party take steps to make up for the breach. Equitable remedies can include canceling the contract, known as rescission, or reforming the contract. Both contract claims and remedies can be very complicated because it can be difficult to determine the actual harm caused by a contract breach. For a contract breach to exist, there must be four crucial elements:
 

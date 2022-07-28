@@ -9,6 +9,12 @@ Feel free to use and adapt any of the following disclaimers.
 
 The following refers to Juicebox as the DAO. The Juicebox Project creation, Juicebox Project Owners, and Project Tokens are all applications of the DAO.
 
+### Payment Disclosures
+
+:::info
+THIS SECTION IS INTENTIONALLY LEFT BLANK.
+:::
+
 ### Limitation of Risks including regulatory matters
 
 :::info
@@ -19,7 +25,6 @@ SERVICES PROVIDED INCLUDING, WITHOUT LIMITATION, FOR ANY HARM, LOSS, OR DAMAGES 
 > (II) TO FUND TERRORISM OR OTHER CRIMINAL ACTIVITY;
 > (III) TO CIRCUMVENT ANY EXPORT RESTRICTIONS OR ECONOMIC SANCTIONS; OR
 > (IV) TO ENGAGE IN UNLAWFUL MONEY TRANSMISSION, CURRENCY EXCHANGING, OR MONEY LAUNDERING.
-
 :::
 
 ### Limitation of liability for information potentially related to accounting, tax, and legal.

@@ -10,4 +10,3 @@ Juicebox seeks to be as diligent as possible in compiling and updating the infor
 -   **What is the most common type of Juicebox Project type?**
 
 > The most common type of Juicebox Project are the single-target fund raises. Both unincorporated non-profits or trust would work sufficiently fine.
-s

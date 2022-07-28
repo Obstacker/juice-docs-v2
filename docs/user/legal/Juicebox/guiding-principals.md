@@ -15,7 +15,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 **By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use JBDAO. Capitalized terms used herein have the meanings ascribed to them in Section 17.**
 
-#### Organization.
+#### 1. Organization.
 
 (a) Formation. JBDAO was formed on July 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Revised Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890 inclusive, and this Agreement.
 
@@ -23,7 +23,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 -   [See Misson and Purpose](./purpose.md)
 
-#### Membership; Governance Rights and Tokens; Limitations.
+#### 2. Membership; Governance Rights and Tokens; Limitations.
 
 (a) Governance Rights. Governance Rights in the DAO are represented by Project Tokens, with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time.
 
@@ -39,19 +39,19 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 (f) Governance Rights and Token Limitations. Governance Rights and the governance Tokens provide no possibility of profits and losses, no rights to distributions and dividends, and no rights to ownership or management of the DAO. Each Member (or assignees, as the case may be) that receives or holds governance Tokens expressly and unequivocally agrees that the Tokens provide no rights to profits and/or losses, that the Tokens do not entitle their holder to distributions or dividends, and that the Tokens do not make their holder an owner or manager of the DAO.
 
-#### Liability.
+#### 3. Liability.
 
 (a) No Member Liability. Except as otherwise provided in this Agreement or the Act, no Member (or former Member) shall be personally liable for the obligations of the DAO, including any obligations owed by any such Member in connection with any breach of this Agreement. A debt, obligation, or other liability of the DAO is solely the debt, obligation, or other liability of the DAO. Members (or former Members) are not personally liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the DAO solely by reason of being or acting as a Member or acting on behalf of the DAO. The failure of the DAO to observe formalities relating to the exercise of its powers or management of its activities and affairs is not grounds for imposing liability on a Member of the DAO for a debt, obligation, or other liability of the DAO.
 
 (b) Member Limitations. No Member shall have the right or power: (i) to cause the dissolution and winding up of the DAO; or (ii) to demand or receive property, including any ERC-20 or ERC-721 Tokens donated to the DAO, except as agreed to by the Members or otherwise provided herein.
 
-#### Admission of Additional Members.
+#### 4. Admission of Additional Members.
 
 (a) Subject to the provisions of this Agreement, the Members are authorized to accept additional donations from one or more Members, and to admit other Persons to the DAO as additional Members (each such additional Member and such existing Member is an "Additional Member"). Unless otherwise determined by the Members, any such Additional Members shall be admitted to the DAO only if such Member or Additional Member makes a donation via the Dapp.
 
 (b) Accession to Agreement. Each Person who is to be admitted as an Additional Member pursuant to this Agreement shall agree to be bound by all of the terms of this Agreement as if they were a member from the inception of the DAO.
 
-#### Management.
+#### 5. Management.
 
 (a) Except as otherwise expressly required in this Agreement, the affairs of the DAO shall be carried on and managed exclusively by the Members, who shall have sole and absolute discretion with respect thereto. No Member shall be a manager, as defined under the Act.
 
@@ -69,15 +69,15 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 (h) Other Activities. Each Member acknowledges and agrees that in addition to transactions specifically contemplated by this Agreement, and subject to applicable law, the Members, the DAO, and their respective Affiliates and Representatives are each hereby authorized to obtain property or obtain services from, to provide property or provide services to, or otherwise enter into any transaction with any Member, or any Affiliate or Representative of any of the foregoing Persons.
 
-#### Withdrawal Rights; Compulsory Withdrawal.
+#### 6. Withdrawal Rights; Compulsory Withdrawal.
 
 (a) Limited Right to Withdraw. A Member may withdraw at any time by transferring its Tokens to a third party. Such withdrawal shall be facilitated and executed, in part, using one or more smart contracts and shall be effective as of the date of transfer. Any withdrawal is irrevocable.
 
 (b) Compulsory Withdrawal. Not in limitation of Section 6(a), the Members acting by vote via the Dapp may cause a Member to be compulsorily withdrawn from the DAO to the extent that such Members, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members. For the avoidance of doubt–the Member proposed to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding such compulsory withdrawal.
 
-(c) Emergency Immediate Compulsory Withdrawal For Cause. Not in limitation of Section 6(a), 6(b), any Member, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members
+(c) Emergency Immediate Compulsory Withdrawal For Cause. Not in limitation of Section 6(a), 6(b), any Member, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members.
 
-#### Fees and Expenses.
+#### 7. Fees and Expenses.
 
 (a) Organizational Expenses. The DAO shall bear all of its organizational expenses and costs, and may amortize these expenses for accounting and/or tax purposes.
 
@@ -87,13 +87,13 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 > (ii) DAO Expenses shall be allocated to and funded by the DAO.
 
-#### Distributions; Dividends; Compensation.
+#### 8. Distributions; Dividends; Compensation.
 
 (a) The DAO shall not make any distributions of any kind and it will not pay dividends of any kind to any Member or director/officer or other person who may have an ownership interest in the DAO.
 
 (b) The DAO may pay reasonable compensation or reimburse reasonable expenses to a Member or third-party for services rendered, confer benefits on a Member or third party in conformity with its nonprofit purposes, repurchase a membership and repay a capital contribution made by a Member to the extent authorized by this Agreement, or make distributions of property to Members upon winding up and termination to the extent permitted by this Agreement.
 
-#### Dissolution.
+#### 9. Dissolution.
 
 (a) General. The DAO shall be dissolved and its affairs shall be wound up upon the earliest to occur of:
 
@@ -103,7 +103,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 (b) Upon the dissolution of the DAO, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code or the corresponding section of any future federal tax code and consistent with the goals and purpose of the DAO, or shall be distributed to the federal government, or to a state or local government, for a public purpose. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the corporation is then located, exclusively for such purposes or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purposes.
 
-#### Limitations on Transfers.
+#### 10. Limitations on Transfers.
 
 (a) Transfers. Governance Rights and Tokens are not transferable, except to other members. Members may vote to allow or disallow the ability of Members to transfer their Governance Rights and/or Tokens by a vote facilitated via the Dapp. Tokens may become freely transferable to Ethereum addresses outside of the DAO ("External Addresses") by a vote of the Members. In the event the Tokens become freely transferable to External Addresses, you agree that holders of the External Address shall automatically be granted Membership rights, subject to this Agreement.
 
@@ -113,9 +113,10 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 > (ii) Effect of Death, Dissolution, or Bankruptcy. Upon the death, incompetence, bankruptcy, insolvency, liquidation, or dissolution of a Member, the rights and obligations of that Member under this Agreement shall accrue to that Member's successor(s), estate, or legal representative, and each such Person shall be treated as an unadmitted transferee of that Member's Tokens, as described in the Act.
 
-Books and Records; Accounting and Tax Matters. The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain.
+#### 11. Books and Records; Accounting and Tax Matters. 
 
-#### Waiver of Fiduciary Duties.
+The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain.
+#### 12. Waiver of Fiduciary Duties.
 
 (a) Except as expressly set forth in this Section, in the event that any Member initiates any Proceeding against the DAO and a judgment or order not subject to further appeal or discretionary review is rendered in respect of such Proceeding, as the case may be, such Member shall be solely liable for all costs and expenses related to the Proceeding.
 
@@ -123,7 +124,7 @@ Books and Records; Accounting and Tax Matters. The DAO shall not be obligated to
 
 (c) Waiver of Fiduciary Duties. To the fullest extent permitted by applicable law, notwithstanding any other provision of this Agreement or otherwise of applicable law, including any in equity or at law, no Member shall have any fiduciary duty to the DAO or to any Member by reason of this Agreement or in its capacity as a Member, except that the Members shall be subject to the implied contractual covenant of good faith and fair dealing and the terms and provisions of this Agreement. The provisions of this Agreement, to the extent that they restrict or eliminate the duties and liabilities of the Members otherwise existing at law or in equity, are agreed by the parties hereto to replace such other duties and liabilities of the Members. Members will exercise any rights under this Agreement consistent with this Agreement.
 
-#### Intellectual Property Rights.
+#### 13. Intellectual Property Rights.
 
 (a) Grant of Rights. Members that join the DAO grant to the DAO a perpetual, non-exclusive, royalty-free license and right, and all ancillary and subsidiary rights therein and thereto, throughout the world, to use, edit, modify, include, incorporate, adapt, record, reproduce, display, and archive any copyrightable work associated with any written copy, source code, illustrations, and artwork (the "Work") in any manner whatsoever, in or out of context, by any and all means and/or devices and in any and all media now or known hereafter–all in connection with the production, exhibition, distribution, exploitation, advertising, marketing, publicity, and promotion of the DAO and its DApp. The term of this license begins whenever an contribution is made through the DApp by a Person entering into this Agreement as a member or is subsequently admitted as a member pursuant to the terms of this Agreement (i.e., any and all Members).
 

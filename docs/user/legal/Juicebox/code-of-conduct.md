@@ -7,12 +7,17 @@ sidebar_position: 3
 
 ### Who we are
 
--   We're builders. The decisions we make prioritize those building, and we trust those who we've delegated responsibilities to.
--   We're focused. We encourage one another to focus on the commitments we've made to the DAO, and keep each other accountable to them.
--   We're supportive. We're here to help, and we communicate in a way that empowers one another.
--   We're listeners. We are humble with our knowledge, and seek balance between urgency and patience.
--   We're honest. We are each unique selves, and we communicate our individual ideas openly and with clarity. We express ourselves and exchange feedback with this in mind.
--   We’re stewards. We respect the opportunity to help set a tone for what it means to build on the open internet together.
+**We're builders.** The decisions we make prioritize those building, and we trust those who we've delegated responsibilities to.
+
+**We're focused.** We encourage one another to focus on the commitments we've made to the DAO, and keep each other accountable to them.
+
+**We're supportive.** We're here to help, and we communicate in a way that empowers one another.
+
+**We're listeners.** We are humble with our knowledge, and seek balance between urgency and patience.
+
+**We're honest.** We are each unique selves, and we communicate our individual ideas openly and with clarity. We express ourselves and exchange feedback with this in mind.
+
+**We’re stewards.** We respect the opportunity to help set a tone for what it means to build on the open internet together.
 
 ### Focus areas
 
