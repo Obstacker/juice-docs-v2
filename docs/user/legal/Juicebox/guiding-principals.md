@@ -9,9 +9,9 @@ sidebar_position: 3
 
 -   [Definitions](./definitions.md)
 
-These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of Juicebox (hereinafter “DAO” or “JBDAO”), an unincorporated nonprofit association organized under the laws of the State of Nevada.
+These guiding principles constitute an Agreement (hereinafter the "Agreement") and are entered into by and amongst members of **Juicebox (hereinafter “DAO” or “JBDAO”)**, an unincorporated nonprofit association organized under the laws of the State of Nevada.
 
-The following terms apply when you click to view or access DAO's Dapp or DAO's online services (including https://juicebox.money), donate cryptocurrencies such as Ethereum, or transfer one or more ERC-20 or ERC-721 (an "NFT") to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for JBDAO, interact with or access [JBDAO's smart contracts in any way](../Juicebox/contract-addresses.md), provide services to JBDAO, donate or transfer any property to JBDAO, or otherwise interact with or access JBDAO's services through the Dapp. Participating in the DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
+The following terms apply when you click to view or access DAO's Dapp or DAO's online services **(including https://juicebox.money)**, donate cryptocurrencies such as Ethereum, or transfer one or more **ERC-20 ("Tokens")** or **ERC-721 ("NFTs")** **("Cryptographic currencies")** to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for JBDAO, interact with or access [JBDAO's smart contracts in any way](../Juicebox/contract-addresses.md), provide services to JBDAO, donate or transfer any property to JBDAO, or otherwise interact with or access JBDAO's services through the Dapp. Participating in the DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
 
 **By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use JBDAO. Capitalized terms used herein have the meanings ascribed to them in Section 17.**
 
@@ -20,6 +20,8 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 (a) Formation. JBDAO was formed on July 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Revised Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890 inclusive, and this Agreement.
 
 #### Purpose.
+
+The primary purpose of **Juicebox DAO ("DAO")** helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum. The DAO and its community build and maintain the Juicebox protocol, a framework for funding and operating projects **("Member Projects")** openly on Ethereum. Its contracts allow communities to deploy an administrative NFT, programmable payment terminals for receiving **("Contributions")** and distributing funds **("Payouts")**, project tokens **("Project Tokens")** for community membership, and funding cycles for time-locked and recurring constraints—all in powerful, customizable ways.
 
 -   [See Misson and Purpose](./purpose.md)
 
