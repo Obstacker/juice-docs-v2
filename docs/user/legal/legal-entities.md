@@ -9,6 +9,10 @@ Any legal, financial, or tax comments within Discord is provided for information
 
 Whether your Juicebox treasury requires a formal legal structure, a collection of written agreements, or remains unincorporated is ultimately up to you. This section's purpose is to describe types of Juicebox Projects and the types of legal IRL frameworks which maybe employed. _As a friendly reminder, this documentation, Juicebox Discord server, are not replacements from legal, tax, or accounting advice. Please do your own research._
 
+## Unincorporated Nonprofit Association
+
+"Unincorporated association" means an unincorporated group of two or more persons joined by mutual consent for a common lawful purpose, whether organized for profit or not.
+
 #### The Fund Raise Project
 
 The Fund Raise Project is the type of Project where an individual (or a group of individuals collectively) solicits donation of funds for a particular purpose. In addition to formalizing a non-profit for the specific purpose, a one-time Fund Raise maybe accomplished via a [trust agreement](./Resources/trusts/trust.md) where as the contributors are the grantors, the individual who created the **Juicebox Project** is the trustee, and the beneficiary is the individual(s) who will receive the funds.

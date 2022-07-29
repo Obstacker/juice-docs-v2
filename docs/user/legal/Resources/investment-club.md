@@ -7,35 +7,19 @@ sidebar_position: 2
 -   [Source](https://guide.syndicate.io/web3-investment-clubs/create-a-legal-entity)
 
 ```
-[ENTITY LLC NAME ],
-A DELAWARE LIMITED LIABILITY COMPANY
-[SERIES NAME],]
-A SERIES OF [ENTITY LLC NAME ],
-```
-
-# Investment Club LLC
-
-**Provided by Syndicate. Pertinent info needed for this doc:**
+Variables:
 
 LLC/Series name/AKA “Vehicle Name” (name of project)
-
 Subscriber (prospective members of the project)
-
 Administrative Member (admin of the project)
-
 Counsel (counsel associated with the project)
-
 Subscription Agreement (agreement between project LLC and members)
-
 Subscription Amount
-
 Payment of Distributions info:
-
 Bank Account
 Name of Bank:
 Name of Banking Officer:
 Address:
-
 ABA Number:
 IBAN Number:
 Swift Number:
@@ -44,11 +28,18 @@ Account Name:
 Telephone Number of Bank:
 Facsimile Number of Bank:
 Address for Notices/Declarations:
-
 Digital Asset Wallet
 Name and Address of Wallet:
 Telephone Number
 Associated with Wallet:
+
+```
+
+**Provided by Syndicate.**
+
+# Investment Club LLC
+
+:::info
 
 ### SUBSCRIPTION DOCUMENTS
 
@@ -77,6 +68,7 @@ DISCLAIMS ALL WARRANTIES, TERMS, REPRESENTATIONS AND CONDITIONS WHETHER
 EXPRESS, IMPLIED, OR STATUTORY, AND INCLUDING ANY WARRANTIES, TERMS,
 REPRESENTATIONS AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY,
 FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT.]
+:::
 
 ### TABLE OF CONTENTS
 

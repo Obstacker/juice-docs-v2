@@ -3,9 +3,9 @@ title: Code of Conduct
 sidebar_position: 3
 ---
 
-### Values
+#### Values
 
-### Who we are
+##### Who we are
 
 **We're builders.** The decisions we make prioritize those building, and we trust those who we've delegated responsibilities to.
 
@@ -19,7 +19,7 @@ sidebar_position: 3
 
 **We’re stewards.** We respect the opportunity to help set a tone for what it means to build on the open internet together.
 
-### Focus areas
+##### Focus areas
 
 Where the DAO focuses its resources
 
