@@ -145,7 +145,7 @@ All of the DAO governing members shall have their membership determined upon rec
 
 #### 11. Books and Records; Accounting and Tax Matters.
 
-The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain. Notwithstanding, the DAO authorizes Ethereum address 0x752515a3a1091b9f1c04416cf79d1f14d2340085, dao-lawfirm.eth or its agents and assignees to open a Bank account in the name of the DAO.
+The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain. 
 
 #### 12. Waiver of Fiduciary Duties.
 
