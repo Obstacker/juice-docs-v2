@@ -3,7 +3,7 @@ title: Guiding Principles
 sidebar_position: 3
 ---
 
-# Juicebox Guiding Principles
+# ☮️ PeaceDAO Guiding Principles
 
 #### Definitions.
 
@@ -11,19 +11,19 @@ sidebar_position: 3
 
 #### Introduction.
 
-These guiding principles constitute an Agreement **(hereinafter the "Agreement")** and are entered into by and amongst members of **Juicebox (hereinafter “DAO” or “JBDAO”)**, an unincorporated nonprofit association organized under the laws of the **State of Nevada.**
+These guiding principles constitute an Agreement **(hereinafter the "Agreement")** and are entered into by and amongst members of **PeaceDAO (hereinafter “DAO” or “☮️DAO”)**, an unincorporated nonprofit association organized under the laws of the **State of Delaware.**
 
-The following terms apply when you click to view or access DAO's Dapp or DAO's online services **(including https://juicebox.money)**, donate cryptocurrencies such as Ethereum, or transfer one or more **ERC-20 ("Tokens")** or **ERC-721 ("NFTs")** **("Cryptographic currencies")** to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for the DAO, interact with or access [the DAO's smart contracts in any way](../Juicebox/contract-addresses.md), provide services to the DAO, donate or transfer any property to the DAO, or otherwise interact with or access the DAO's services through the Dapp. Participating in the DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
+The following terms apply when you click to view or access DAO's Dapp or DAO's online services **(including https://peace.move.xyz)**, donate cryptocurrencies such as Ethereum, or transfer one or more **ERC-20 ("Tokens")** or **ERC-721 ("NFTs")** **("Cryptographic currencies")** to the DAO, become a Member of DAO, receive DAO Tokens, hold Governance Rights for the DAO, interact with or access [the DAO's smart contracts in any way](./contract-addresses), provide services to the DAO, donate or transfer any property to the DAO, or otherwise interact with or access the DAO's services through the Dapp. Participating in the DAO's governance may occur on [Snapshot](https://snapshot.org), however for the purpose of this agreement we refer to this as part of the DAO Dapp.
 
 **By doing any of the above, you signify your agreement to these terms. If you do not agree to be bound by the Agreement in its entirety, you may not access, interact with, or use the DAO Dapp or online services. Capitalized terms used herein have the meanings ascribed to them in Section 17.**
 
 #### 1. Organization.
 
-> **(a) Formation.** The DAO was formed on July 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Revised Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890 inclusive, and this Agreement.
+> **(a) Formation.** The DAO was formed on March 15, 2021. The obligations of members of the DAO shall be determined pursuant to the Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916 inclusive, and this Agreement.
 
 #### Purpose.
 
-> The primary purpose of **Juicebox DAO ("DAO")** helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum. The DAO and its community build and maintain the Juicebox protocol, a framework for funding and operating projects **("Member Projects")** openly on Ethereum. Its contracts allow communities to deploy an administrative NFT, programmable payment terminals for receiving **("Contributions")** and distributing funds **("Payouts")**, project tokens **("Project Tokens")** for community membership, and funding cycles for time-locked and recurring constraints—all in powerful, customizable ways.
+Peace DAO's purpose is to fund life-saving assistance and support for refugees of war and internally displaced people. The following is an initial framework for the governance of Peace DAO, the execution of funding initiatives, and the management of Peace DAO’s treasury.
 
 > The DAO is an unincorporated association of individuals, corporations, statutory trusts, business trusts, estates, trusts, partnerships, limited liability companies, associations, joint ventures, or any other legal or commercial entity, many, if not all, of whom agree to join together for a common, nonprofit purpose. For the DAO, that purpose is encapsulated in its mission statement.
 
@@ -35,19 +35,35 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 > **(a) Governance Rights.** Governance Rights in the DAO are represented by Project Tokens, with each Token representing a fractional part of the Governance Rights of all Members (or assignees, as the case may be) equal to the quotient of one (1) divided by the total number of Tokens claimed at any time.
 
-> **(b) Tokens.** As of the date hereof, there shall be an allowance of up to the max of an unsigned integer 2<sup>256-1</sup>[^1], tokens authorized to represent membership interests in the DAO, unless otherwise agreed to and by the Members via a vote occurring through the Dapp. The DAO shall grant the initial Member's governance voting tokens proportional to contributions to the Gnosis multi-signature wallet[^2].
+> **(b) Tokens.** As of the date hereof, there shall be an allowance of up to the max of an unsigned integer 2<sup>256-1</sup>[^1], tokens authorized to represent membership interests in the DAO, unless otherwise agreed to and by the Members via a vote occurring through the Dapp. Membership in the DAO, as defined bey Del. Code Ann. Tit. 6, § 1901, shall be voluntary and open to any individual whose purpose or presumed intent is to contribute to the DAO and is willing to accept responsibilities and terms of membership. The DAO shall grant the initial Member's governance voting tokens proportional to contributions to the Gnosis multi-signature wallet[^2].
 
 > Notwithstanding the foregoing or any other provision of this Agreement, the DAO may provide initial members Tokens for their role in conceiving and supporting the DAO. [continued](./tokens.md)
 
 > **(c) Limitation to the DAO Protocol Configuration.** The DAO shall not configure the Juicebox Protocol where the Reserved Tokens is undefined or 0%, the Redemption Rate allows for 100%, and the Discount Rate with any value other than zero (0%). The DAO shall not allow the Juicebox Protocol initial Token Issuance with any parameters where the Token Redemption Rate is greater than the capital required to purchase the Tokens.
 
-> **(d) Membership by Projects.** The DAO shall require Member Projects, to pay a membership fee of 2.5% of all treasury cryptocurrency received to the Member Project Juicebox Protocol, notwithstanding the foregoing or any other provision of this Agreement, individual members of Member Projects are not themselves automatically Members.
+> **(d) Admission.** The DAO is a decentralized network of members and may admit or deny individuals for any arbitrary purpose or lack of purpose.
+
+All of the DAO governing members shall have their membership determined upon receipt of voting tokens acquired on a public blockchain via the DAO's Juicebox Project management page (“Cryptographic Units”, and such holders, “Members”). Cryptographic Units are used for participating in and improving the governance of the DAO through affirmative votes effectuted via the Designated Smart Contract (defined herein) (such process, “Cryptographic Consensus”) or more commonly, Snapshot the popular off-chain voting protocol ("Snapshot"). Once the DAO admission requirements are met a prospective Member may be put up to a vote of the full membership. The DAO will consistently review, and if necessary, Members may make adjustments to the DAO admission requirements based on their evolving needs and as registered in a successful vote through the Designated Smart Contract. Notwithstanding, the DAO may admit all individuals who hold the DAO token by capturing an inventory of all current holders and ratifying the membership at Governance intervals from time to time.
 
 > **(e) Token Liquidity Pools.** The DAO shall not create any Liquidity Pools.
 
 > **(f) Governance Rights and Token Limitations.** Governance Rights and the governance Tokens provide no possibility of profits and losses, no rights to distributions and dividends, and no rights to ownership or management of the DAO. Each Member (or assignees, as the case may be) that receives or holds governance Tokens expressly and unequivocally agrees that the Tokens provide no rights to profits and/or losses, that the Tokens do not entitle their holder to distributions or dividends, and that the Tokens do not make their holder an owner or manager of the DAO.
 
 > **(g) Token Reserved Rate.** Notwithstanding the foregoing or any other provision of this Agreement, contributors to the DAO shall be entitled to receive Reserved Rate Tokens by a vote of the Members, via the Reserved Tokens list, as defined by the Juicebox Protocol configuration. Each Member expressly and unequivocally agrees to 2(f) above.
+
+> **(h) Responsibilities.** As of the date hereof, Members are not required to submit to any dues or membership fees. However, in the event the Members otherwise agree via a vote occurring through the Dapp or Snapshot, each Member shall keep reasonably current in payment of any dues or membership fees and other financial obligations of membership, if applicable and determined by the DAO. Each Member shall notify the DAO of a Discord, Twitter, or other acceptable communication channel by which such Member may receive written or electronic materials required or permitted by this document or shall notify the DAO that such Member lacks the standard acceptable addresses and designate a mutually acceptable form of communication.
+
+> > If you have received any Tokens or are otherwise a Member, you consent and agree to become legally bound by this Agreement as both a participant in the DAO and more specifically a DAO "Member".
+
+> **(i) Information Rights.** Members shall have access to all information concerning operational and financial affairs of the DAO via
+
+> > **Gnosis Multi-Signature Wallet Etherscan Mainnet** `0xD2427c0e44D28Ea74c0504E072c6073d135569B2`,
+
+> > **Ethereum Block Explorer** `https://etherscan.io/address/0xD2427c0e44D28Ea74c0504E072c6073d135569B2`,
+
+> > **Juicebox's Project Page** `https://juicebox.money/p/peace`, and
+
+> > **Snapshot** `https://snapshot.org/#/peace.movedao.eth`.
 
 #### 3. Liability.
 
@@ -85,7 +101,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 #### 6. Withdrawal Rights; Compulsory Withdrawal.
 
-> **(a) Limited Right to Withdraw.** A Member may withdraw at any time by transferring its Tokens to a third party. Such withdrawal shall be facilitated and executed, in part, using one or more smart contracts and shall be effective as of the date of transfer. Any withdrawal is irrevocable.
+> **(a) Limited Right to Withdraw.** A Member may withdraw at any time by transferring its Tokens to a third party. Such withdrawal shall be facilitated and executed, in part, using one or more smart contracts and shall be effective as of the date of transfer. Any withdrawal is irrevocable. Alternatively, a Member may redeem the entirety of the Tokens held, which are submitted to the Juicebox Protocol and burned, reducing the DAO supply, in return the Member receives some portion of their initial or cumulative DAO Membership holdings in Ethereum (or other "Cryptographic currency"). A Member who burns the entirety of their token holdings shall be deemed to have withdrawn from the DAO. The DAO shall not be obligated to pay any interest or other compensation to a Member who redeems or withdraws its Tokens.
 
 > **(b) Compulsory Withdrawal.** Not in limitation of Section 6(a), the Members acting by vote via the Dapp may cause a Member to be compulsorily withdrawn from the DAO to the extent that such Members, in their reasonable discretion, determine it to be necessary, desirable, or appropriate, including, without limitation, to comply with applicable law or regulations, or to avoid a material adverse effect on the DAO or the other Members. For the avoidance of doubt–the Member proposed to be compulsorily withdrawn shall be entitled to vote with respect to any vote of the Members regarding such compulsory withdrawal.
 
@@ -97,7 +113,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 > **(b) Operating Expenses.**
 
-> > **(i)** The DAO shall bear all costs and expenses relating to its activities, maintenance, and operations, including, without limitation, all fees, expenses, and costs associated (directly or indirectly) with the acquiring, holding, monitoring, and sourcing of NFTs and any extraordinary expenses (including, without limitation, litigation-related and indemnification expenses), legal, regulatory, research, consulting, compliance, auditing, accounting, and other professional fees and expenses, the costs of any administrator, the costs of any reporting to Members, expenses of any administrative proceedings undertaken by the applicable Member in its capacity, expenses incurred in connection with the dissolution, liquidation, and termination of the DAO, and other expenses related to the DAO as determined by the Members by a vote via the Dapp (collectively, and together with organizational expenses, the "DAO Expenses").
+> > **(i)** The DAO shall bear all costs and expenses relating to its activities, maintenance, and operations, including, without limitation, all fees, expenses, and costs associated (directly or indirectly) with the acquiring, holding, monitoring, and commissioning of artwork, identifying DAO opportunities to fullfil its purpose and any extraordinary expenses (including, without limitation, litigation-related and indemnification expenses), legal, regulatory, research, consulting, compliance, auditing, accounting, and other professional fees and expenses, the costs of any administrator, the costs of any reporting to Members, expenses of any administrative proceedings undertaken by the applicable Member in its capacity, expenses incurred in connection with the dissolution, liquidation, and termination of the DAO, and other expenses related to the DAO as determined by the Members by a vote via the Dapp (collectively, and together with organizational expenses, the "DAO Expenses").
 
 > > **(ii)** DAO Expenses shall be allocated to and funded by the DAO.
 
@@ -129,7 +145,7 @@ The following terms apply when you click to view or access DAO's Dapp or DAO's o
 
 #### 11. Books and Records; Accounting and Tax Matters.
 
-The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain.
+The DAO shall not be obligated to keep any books or records beyond what is made available via the Dapp or available via the Ethereum blockchain. Notwithstanding, the DAO authorizes Ethereum address 0x752515a3a1091b9f1c04416cf79d1f14d2340085, dao-lawfirm.eth or its agents and assignees to open a Bank account in the name of the DAO.
 
 #### 12. Waiver of Fiduciary Duties.
 
@@ -141,11 +157,13 @@ The DAO shall not be obligated to keep any books or records beyond what is made 
 
 #### 13. Intellectual Property Rights.
 
-> **(a) Grant of Rights.** Members that join the DAO grant to the DAO a perpetual, non-exclusive, royalty-free license and right, and all ancillary and subsidiary rights therein and thereto, throughout the world, to use, edit, modify, include, incorporate, adapt, record, reproduce, display, and archive any copyrightable work associated with any written copy, source code, illustrations, and artwork (the "Work") in any manner whatsoever, in or out of context, by any and all means and/or devices and in any and all media now or known hereafter–all in connection with the production, exhibition, distribution, exploitation, advertising, marketing, publicity, and promotion of the DAO and its DApp. The term of this license begins whenever an contribution is made through the DApp by a Person entering into this Agreement as a member or is subsequently admitted as a member pursuant to the terms of this Agreement (i.e., any and all Members).
+> **(a) Grant of Rights.** Members that join the DAO grant to the DAO a perpetual, non-exclusive, royalty-free license and right, and all ancillary and subsidiary rights therein and thereto, throughout the world, to use, edit, modify, include, incorporate, adapt, record, reproduce, display, and archive any copyrightable work associated with any written copy, source code, illustrations, and artwork (the "Work") in any manner whatsoever, in or out of context, by any and all means and/or devices and in any and all media now or known hereafter–all in connection with the production, exhibition, distribution, exploitation, advertising, marketing, publicity, and promotion of the DAO and its Purpose. The term of this license begins whenever an contribution is made through the DApp by a Person entering into this Agreement as a member or is subsequently admitted as a member pursuant to the terms of this Agreement (i.e., any and all Members).
 
 > **(b) Reservation of Rights.** All rights in any copyrightable works not specifically granted to the DAO here are reserved by the donating Member. Specifically, the DAO acknowledges that its use of the Work will not affect the Member's continued and separate copyright ownership in the Work, and that the Member may use and license others to use the Work otherwise and elsewhere.
 
 > **(c) Representations and Warranties, Indemnification.** The Member represents and warrants that it is the owner of the entirety of the rights in and to the Work and that the Member has the full authorization and authority to enter into this Agreement and grant the licenses herein. No other rights, permissions, or consents are necessary for the DAO to use the Work in accordance with the licenses granted herein, and no fees, royalties, or use payments of any kind are due to the Member or third parties in connection with the exercise of the licenses granted herein. The Member guarantees that the Work does not infringe any copyright or trademark, and that the Work does not violate any privacy, personal, proprietary, common law, or statutory right, of any Person. Licensor shall indemnify and hold Licensee (and its agents, Affiliates, assigns, heirs, or other successors in interest) harmless from any claim, loss, liability, damage, or expense (including reasonable attorneys' fees) arising out of any claim, lawsuit, or demand which is inconsistent with or arises out of warranties or representations in this Section.
+
+> **(d) Limited Field of Use.** Members' Work, notwithstanding the preceding provisions, **Grant of Rights 13.(a)** which is used by the DAO, shall limit the use insofar as it furthers the Purpose of the DAO. The field of use of the Work shall be limited to the Purpose as defined in **1. Organization.** The DAO shall not use the Work for any other purpose.
 
 #### 14. Derivative Matters.
 
@@ -204,6 +222,8 @@ The DAO shall not be obligated to keep any books or records beyond what is made 
 :::info
 THE TOKENS HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. THEY PROVIDE NO RIGHT TO ANY PROFITS OR LOSSES OF THE DAO NOR IS THERE A REASONABLE EXPECTATION OF PROFIT FROM BUYING OR RECEIVING THE TOKENS. THE TOKENS ONLY PROVIDE THE HOLDER WITH GOVERNANCE RIGHTS THAT ARE SPECIFICALLY LIMITED IN THIS AGREEMENT.
 :::
+
+> **(p) Communication by Electronic Means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature, including Cryptographic signatures.
 
 [^1]: The maximum number of 115792089237316195423570985008687907853269984665640564039457584007913129639935
 [^2]: Gnosis Multi-Signature Wallet, :eth:0xAF28bcB48C40dBC86f52D459A6562F658fc94B1e
