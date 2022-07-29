@@ -3,19 +3,11 @@ title: "References"
 sidebar_position: 7
 ---
 
-:::warning
+:::info
 Juicebox seeks to be as diligent as possible in compiling and updating the information on its website. However, there is no guarantee of the correctness and completeness of the information provided here. Juicebox does not guarantee that this information is up to date and such information may be subject to change at any time and without notice.
 :::
 
 Below are online resources we found helpful preparing this information, additionally, the reference to the template, example legal agreements to download and adapt as you wish.
-
-### Legal Analysis with DAOs
-
--   [DAO Legal Entity How to Pick](https://a16zcrypto.com/dao-legal-entity-how-to-pick/)
--   [Legal Wrappers and DAOs](./Resources/papers/legal-wrappers-and-daos.pdf)
--   [DAO Governance Dispute Resolution and Regulation](./Resources/papers/dao-governance-dispute-resolution.pdf)
--   [DAO Legal Framework Part 1](./Resources/papers/dao-legal-framework-part-1.pdf)
--   [DAO Legal Framework Part 2](./Resources/papers/dao-legal-framework-part-2.pdf)
 
 ### Trusts
 
@@ -33,6 +25,8 @@ Below are online resources we found helpful preparing this information, addition
 
 ### LLCs, Series LLC
 
+`See LLC related documents in teh Resources/papers folder`
+
 ### S-Corporations
 
 This section is intentionally blank.
@@ -44,7 +38,7 @@ The following links will return Word Documents, which may automatically download
 :::
 
 -   [Incorporation Questionnarie](./Resources/ccorp/EXAMPLE-Incorporation%20Questionnaire.docx)
-
+-   `See additional C-Corp documents in the Resources/ccorp folder`
 -   [Form of Non-Disclosure Agreement-Individual](./Resources/ccorp/EXAMPLE-19-Form%20of%20Non-Disclosure%20Agreement-Mutual.docx)
 
 ### Unincorporated Non-Profit
@@ -53,6 +47,16 @@ The following links will return Word Documents, which may automatically download
 -   [Nevada, Revised Uniform Unincorporated Nonprofit Association Act of 2008 (the "Act"), NRS §§ 81.700 to 81.890](https://www.leg.state.nv.us/nrs/nrs-081.html)
 -   [South Carolina Uniform Non-Profit Association Act of 2008 (the "Act"), Model Act](https://trackbill.com/bill/south-carolina-house-general-bill-3893-uniform-unincorporated-nonprofit-association/2033570/)
 -   [Delaware Uniform Unincorporated Nonprofit Association Act, Del. Code Ann. Tit. 6, §§ 1901-1916](https://delcode.delaware.gov/title6/c019/index.html)
+
+## Reference Material
+
+### Legal Analysis with DAOs
+
+-   [DAO Legal Entity How to Pick](https://a16zcrypto.com/dao-legal-entity-how-to-pick/)
+-   [Legal Wrappers and DAOs](./Resources/papers/legal-wrappers-and-daos.pdf)
+-   [DAO Governance Dispute Resolution and Regulation](./Resources/papers/dao-governance-dispute-resolution.pdf)
+-   [DAO Legal Framework Part 1](./Resources/papers/dao-legal-framework-part-1.pdf)
+-   [DAO Legal Framework Part 2](./Resources/papers/dao-legal-framework-part-2.pdf)
 
 ### Securities
 

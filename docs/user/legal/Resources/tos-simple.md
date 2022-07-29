@@ -3,6 +3,10 @@ title: Terms and Conditions
 # sidebar_position:
 ---
 
+```
+Variable terms:
+ExampleDAO
+```
 
 # Terms and Conditions
 
@@ -61,13 +65,12 @@ User agrees to indemnify and hold harmless ExampleDAO, its contractors, and its 
 
 Continued use of the Website and App following the posting of such changes will constitute assent to all such changes. Please periodically visit this section to review the current version of these Terms.
 
-ExampleDAO reserves the right, at its sole discretion, to modify or replace any part of this Agreement.
+-   ExampleDAO reserves the right, at its sole discretion, to modify or replace any part of this Agreement.
 
-ExampleDAO reserves the right, at its sole discretion, to modify or replace any part of this Agreement. ExampleDAO will not make any change to this Agreement without a previous publicly announced and hearing the comments from the User and the community.
+-   ExampleDAO reserves the right, at its sole discretion, to modify or replace any part of this Agreement. ExampleDAO will not make any change to this Agreement without a previous publicly announced and hearing the comments from the User and the community.
 
-ExampleDAO may also, in the future, offer new Services and/or features through the Website and App (including, the release of new tools and resources). Such new features and/or services shall be subject to the Terms of this Agreement.
+-   ExampleDAO may also, in the future, offer new Services and/or features through the Website and App (including, the release of new tools and resources). Such new features and/or services shall be subject to the Terms of this Agreement.
 
 Last review [date]
 
 I have read and accept the terms and conditions of service and ExampleDAO privacy policy
-

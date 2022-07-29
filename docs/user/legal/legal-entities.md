@@ -11,7 +11,9 @@ Whether your Juicebox treasury requires a formal legal structure, a collection o
 
 #### The Fund Raise Project
 
-This section describes the types of Fund Raises that can be performed by Juicebox.
+The Fund Raise Project is the type of Project where an individual (or a group of individuals collectively) solicits donation of funds for a particular purpose. In addition to formalizing a non-profit for the specific purpose, a one-time Fund Raise maybe accomplished via a [trust agreement](./Resources/trusts/trust.md) where as the contributors are the grantors, the individual who created the **Juicebox Project** is the trustee, and the beneficiary is the individual(s) who will receive the funds.
+
+Whether an attorney is available to help prepare the documents, or you edit the documents and make them available to the community, this device has substantial statutory law protecting the contributors and the beneficiary.
 
 #### The Fund my Needs Project
 

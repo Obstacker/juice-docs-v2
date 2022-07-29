@@ -3,13 +3,17 @@ title: "Your Project"
 sidebar_position: 1
 ---
 
+:::info
+NONE OF THE INFORMATION, SERVICES OR MATERIALS OFFERED ON OUR SITE CONSTITUTE, AND ARE NOT INTENDED TO CONSTITUTE, LEGAL, FINANCIAL, TAX, INVESTMENT OR OTHER ADVICE, AND YOU SHOULD NOT ACT OR REFRAIN FROM ACTING BASED ON ANY INFORMATION, SERVICES OR MATERIALS PROVIDED ON THIS SITE.
+:::
+
 ## Introduction
 
 This page recommends you prepare a worksheet about your project, to describe generally what you may need to evaluate how best to configure your treasury. Not only will this information help define how the project will operate, but may prove invaluable in navigating future decision trees.
 
 A wide variety of Juicebox projects are created with even wider variety of ideas and preconceptions on its day to day operations. This is the beauty of Juicebox. Where ever you fall on this rainbow-color-spectrum, there are no wrong answers, however the degree of specificity will make navigating decisions easier. For the purposes of this section, the specificity of the information sought below is relevant to the degree you have any requirements to share with 3rd parties the purpose of your Juicebox project. While not knowing what the future will hold, a reasonable strategy is to try to make _some_ decision or reach a consensus with caveats that things change.
 
-For the purposes of illustration, we will use ExampleDAO.
+For the purposes of illustration, in an attempt to clearly define where you can `copy and paste` and `search and replace`, we will use **ExampleDAO**.
 
 ### **Basic project information.**
 

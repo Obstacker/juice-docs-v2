@@ -7,12 +7,20 @@ sidebar_position: 4
 Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions.
 :::
 
+### Introduction
+
 If you are certain you want to create a for-profit startup on Juicebox the following types of start-ups are available:
 
 -   Membership based LLC
 -   Series LLC
 -   S-Corporation
 -   C-Corporation
+
+### LLCs
+
+### C-Corporation
+
+### S-Corporation
 
 ...
 

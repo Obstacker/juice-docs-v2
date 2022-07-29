@@ -4,20 +4,31 @@ sidebar_position: 5
 ---
 
 :::info
-Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions. Juicebox does not endorse or make any representation as to the capabilities of any tax advisor within our Discord and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
+Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions.
 :::
 
 # What is a security?
 
 So what is a security? Unfortunately, as even federal courts have recognized, the definition of a security is "broad and ambiguous." Consequently, it is difficult to layout a bright line rule by which a security can easily be distinguished from a non-security. Instead, courts have designed a flexible test that is intended to "to meet the countless and variable schemes devised by those who seek the use of money of others on the promise of profits."
 
-In particular, the U.S. Supreme Court has outlined a four-part test for determining whether a transaction qualifies as a form of a security called an “investment contract." Originally set forth in SEC v. W.J. Howey Co., the Court has explained that a transaction is an “investment contract” when it involves (1) an investment of money (2) in a common enterprise (3) with an expectation of profit (4) to be derived from the efforts of others. There is a long history of cases interpreting whether various financial instruments meet this definition of a security, covering everything from bank certificates of deposits to interests in whiskey barrels. Some of the most influential cases have been compiled here. However, there are many more cases analyzing various elements of the Howey test, each hinging on the specific facts of the particular transaction.
+In particular, the U.S. Supreme Court has outlined a four-part test for determining whether a transaction qualifies as a form of a security called an “investment contract." Originally set forth in SEC v. W.J. Howey Co., the Court has explained that a transaction is an “investment contract” when it involves
+
+> -   (1) an investment of money
+> -   (2) in a common enterprise
+> -   (3) with an expectation of profit
+> -   (4) to be derived from the efforts of others.
+
+There is a long history of cases interpreting whether various financial instruments meet this definition of a security, covering everything from bank certificates of deposits to interests in whiskey barrels. Some of the most influential cases have been compiled here. However, there are many more cases analyzing various elements of the Howey test, each hinging on the specific facts of the particular transaction.
 
 As proof of the inherent difficulty in defining a clear border between what is and is not a security, there have been numerous instances of courts applying the Howey test to seemingly similar transactions and coming to different results. For example, there are several cases holding certain real estate leases to be securities when offered in a particular manner. Likewise, there are numerous cases addressing when the sale of a tangible product like the sale of beavers may be offered as part of a securities transaction. These cases demonstrate that courts place less of a premium on the nature of the underlying product being sold and more on the manner in which it was sold.[^1]
 
 ### Token Purchasers cannot have an expectation of profits from the efforts of others.
 
 In general, there is no expectation of profits where purchasers are primarily led to expect an item for use or consumption, even in the future. Forman, 421 U.S. at 852–53. Nor is there a reasonable expectation of profits merely because the promoter mentions that an item could increase in value or that the purchaser could profit. See Alunni, 445 F. App’x at 292 (no investment contract in purchase of condominiums where promotional materials stated that purchasers would receive immediate income and did not have to manage their units); Revak v. SEC Realty Corp., 18 F.3d 81, 84 (2d Cir. 1994) (no investment contract where condominiums were marketed for “the income to be derived from rentals, and the prospect of capital appreciation”); Hart, 735 F.2d at 1003 (no investment contract for model home purchases where promotional materials touted “the potential for excellent appreciation in value during the holding period”).
+
+:::tip
+Juicebox does not endorse or make any representation as to the capabilities of any tax advisor within our Discord and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
+:::
 
 ### Even if purchasers can reasonably expect profits, such expectation must be based on the “undeniably significant” entrepreneurial or managerial efforts of the promoter.
 
